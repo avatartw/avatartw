@@ -3,10 +3,11 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-01T10:56:29.447Z
+! Last modified: 2021-02-02T18:34:09.941Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+||drawnperink.com^
 ||roduster.com^
 ||xtraff1cx.space^
 ||ptongouh.net^
@@ -334,7 +335,6 @@
 ||thebestgame2020.com^
 ||fouralered.pro^
 ||ookris.oferty-kredytowe.pl^
-||goo4anywhere.com^
 ||black77854.com^
 ||adscorp.win^
 ||trupir-asia.info^
@@ -1701,6 +1701,7 @@ www.llllllllllll.net^
 ||mob.hr^*-300x250.
 ||rsz.sk^
 ||bannery.navratdoreality.cz^
+||report.seznamzpravy.cz^
 ||a.b.napiszar.com^
 ||pijama.*.elasticbeanstalk.com^
 ||zumads.vrixon.com^
@@ -13883,6 +13884,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yestorrents.org^
 ||zebestof.com^
 
+||acmetex.ru^
+||prdlam.com^
 ||kkmacsqsbf.info^
 ||xxyolk.com^
 ||zswzri7ju3.ru^
@@ -17982,6 +17985,7 @@ us6odtasve.ru
 adbetnet.com
 ||cpm.wargaming.net^
 
+||adbn.masterinvest.info^
 ||bs.orsk.ru^
 ||vast4.kinogo.la^
 ||dsn-kuban.krasnodar.su^
@@ -19619,7 +19623,6 @@ adbetnet.com
 ||clickbuy.bz^
 ||contineljs.com^
 ||dable.io^
-||discovery.api.zaloapp.com^
 ||donglogs.com^
 ||eclick.vn^
 ||eva*-ad.24hstatic.com^
@@ -19690,6 +19693,7 @@ adbetnet.com
 ||sharks.vn^
 ||shop-cdn.coccoc.com^
 ||shopping.coccoc.com^
+||slimads.vn^
 ||smartconvert.co^
 ||sourcetobin.com^
 ||sporttv.today^
@@ -19825,6 +19829,7 @@ adbetnet.com
 ||bluemaulpuffs.com^
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
+||cdn.bongdadem.net^
 ||cdn2.cache.vn^
 ||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
@@ -19990,6 +19995,7 @@ adbetnet.com
 ||logs1.reatimes.vn^
 ||logscafef.channelvn.net^
 ||monitor.teko.vn^
+||myharavan.com^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||partner.accesstrade.vn^
@@ -20058,10 +20064,12 @@ adbetnet.com
 ||widget.subiz.net^
 ||widget.subiz.xyz^
 ||widgetv4.subiz.com^
+||1126bet.com^
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
 ||12b99.com^
+||179bet.net^
 ||1xbetvn.com^
 ||388bet.top^
 ||388bet.us^
@@ -20107,6 +20115,7 @@ adbetnet.com
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||fb88viet.com^
 ||fcb8.com^
 ||fcb88d.com^
 ||five88.biz^
@@ -20123,10 +20132,12 @@ adbetnet.com
 ||income88.com^
 ||interwinvn.com^
 ||jbovn.com^
+||k8vina17.com^
 ||k8vn03.com^
 ||keotot.net^
 ||letou8868.com^
 ||lixi88.info^
+||lixi888.online^
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.live^
@@ -20172,6 +20183,7 @@ adbetnet.com
 ||sodo14.com^
 ||sun.win^
 ||sv88.com^
+||t8betvip.com^
 ||tai789.net^
 ||taib52.club^
 ||taimacau.club^
@@ -20185,6 +20197,7 @@ adbetnet.com
 ||v7ac.com^
 ||v8.club^
 ||v9bet.com^
+||v9jvn.com^
 ||vic.fun^
 ||vic.win^
 ||vicwin.vip^
@@ -20199,6 +20212,9 @@ adbetnet.com
 ||vua1004.club^
 ||vua1005.club^
 ||vwinnow.com^
+||vwinthethao.com^
+||vx88.com^
+||vx88e.com^
 ||w388.com^
 ||w88.vin^
 ||w88bro.com^
@@ -20233,6 +20249,7 @@ adbetnet.com
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
+||vtfwgfo.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -21683,6 +21700,7 @@ adbetnet.com
 ||stsywl.com^
 ||suangtianw.com^
 ||sufficient.cn^
+||sundady.online^
 ||suning.beer^
 ||suning.design^
 ||suning.fit^
@@ -23373,6 +23391,9 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||jindingguopin.com^
+||anyihuan.com^
+||zbqmsc.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -24331,6 +24352,7 @@ adbetnet.com
 ||hyyazhaji.com^
 ||hyzhongchuang.com^
 ||hzhfhkj.cn^
+||hzhongjianfund.com^
 ||hzht666.com^
 ||hzqzxf.com^
 ||hzsrjs.com^
@@ -24794,6 +24816,7 @@ adbetnet.com
 ||okshishi.com^
 ||okuis.com^
 ||okwan.cn^
+||ol6nhf.cn^
 ||olc0.cn^
 ||on1q0.cn^
 ||once88.cn^
@@ -26385,6 +26408,7 @@ adbetnet.com
 ||adultcamchatfree.com^
 ||adultcamfree.com^
 ||adultcamliveweb.com^
+||adultiq.club^
 ||adultlinkexchange.com^
 ||adultmoviegroup.com^
 ||adultoafiliados.com.br^
@@ -27635,6 +27659,7 @@ adbetnet.com
 ||clnlyfxit.com^
 ||clnyonxgsvov.com^
 ||cloakroomobsceneredress.com^
+||closiner.com^
 ||cloudgallery.net^
 ||cloudimagesa.com^
 ||cluethydash.com^
@@ -27952,6 +27977,7 @@ adbetnet.com
 ||daqijjpjow.com^
 ||dardwebertoha.info^
 ||dartsirhose.icu^
+||dasfelynsaterr.webcam^
 ||dashcreakyock.com^
 ||dasimporary.club^
 ||data-data-vac.com^
@@ -29510,6 +29536,7 @@ adbetnet.com
 ||goldenbettingefforlessefforless.com^
 ||gondzizo.com^
 ||gongeeta.net^
+||goo4anywhere.com^
 ||googlesierai.xyz^
 ||goozbkcchscvb.com^
 ||gopejk.com^
@@ -33059,6 +33086,7 @@ adbetnet.com
 ||ptpefoctzmmvd.com^
 ||ptrqrnadg.com^
 ||ptuarytannual.club^
+||ptuxinewhi.pro^
 ||ptvcfltikpdi.com^
 ||pucemara.com^
 ||puddingreluctantly.com^
@@ -33669,6 +33697,7 @@ adbetnet.com
 ||rjzwheddxjuk.com^
 ||rkauzlyh.com^
 ||rkcqlsiu9fr6.top^
+||rkfnrkjfnrkfnkjh.xyz^
 ||rkomf.com^
 ||rkpecade.com^
 ||rkvduvtdz.com^
@@ -35926,6 +35955,7 @@ adbetnet.com
 ||xelllwrite.com^
 ||xenddwrxygjcbq.com^
 ||xeqbdmuvjqt.com^
+||xesigyno.pro^
 ||xeverirpunyv.com^
 ||xevhszzauj.com^
 ||xfasadle.com^
@@ -36822,6 +36852,7 @@ adbetnet.com
 ||adx-t.com^
 ||adxite.com^
 ||adxpansion.com^
+||adxpartner.com^
 ||adxprtz.com^
 ||afclickoffers.com^
 ||afcpatrk.com^
@@ -37695,6 +37726,7 @@ adbetnet.com
 ||webtrackerplus.com^
 ||weliketofuckstrangers.com^
 ||wellhello.com^
+||wellnesszap.com^
 ||wgpartner.com^
 ||wigetmedia.com^
 ||winfreeprize.online^
@@ -41645,6 +41677,7 @@ adbetnet.com
 ||redirekted.com^
 ||1ownandfresh1.com^
 ||get19dragos.club^
+||best-prizes-house.life^
 
 ||Profitto.org^
 ||web.aicrypto.live^
@@ -41963,6 +41996,7 @@ adbetnet.com
 ||jameeltips.us^
 
 ||myselfjanitor.com^
+||unrulyrotate.com^
 
 
 
@@ -42012,6 +42046,10 @@ adbetnet.com
 
 
 ||agriculturaltherapist.com^
+
+||best2020-games-web1.com^
+||facesnotebook.com^
+||highrevenuecpm.com^
 
 
 
@@ -42113,6 +42151,8 @@ adbetnet.com
 
 ||speedynews.xyz^
 ||bitzad.com^
+||htagpa.tech^
+||aghtag.tech^
 
 
 
@@ -43565,7 +43605,6 @@ adbetnet.com
 ||testbooksolutions.com^
 
 ||cnt.hd21.com^
-
 
 ||dnscheck.adguard.com^
 ||abcounter.de^
