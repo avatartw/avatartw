@@ -1,12 +1,10 @@
-!
-! Title: hosts-anti-ad filter
-! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-01T16:56:20.250Z
-!
-! Compiled by @adguard/hostlist-compiler v1.0.8
-!
+#
+# Title: hosts-anti-ad filte
+# Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
+# Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+# License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
+# Last modified: 2021-02-03T03:35:19.713Z
+# Compiled by @adguard/hostlist-compiler v1.0.8
 0.0.0.0 kwcdn.000dn.com
 0.0.0.0 kwcscdn.000dn.com
 0.0.0.0 kwflvcdn.000dn.com
@@ -454,7 +452,6 @@
 0.0.0.0 m.24ihe.cn
 0.0.0.0 api.24kidea.com
 0.0.0.0 24lite.eu
-0.0.0.0 24papierosy.pl
 0.0.0.0 m.24pga.cn
 0.0.0.0 24platnosci.online
 0.0.0.0 r.254a.com
@@ -2840,6 +2837,7 @@
 0.0.0.0 bezpieczne-zakupy.name
 0.0.0.0 bezpieczny-zakup.info
 0.0.0.0 bezpieczny-zakup.name
+0.0.0.0 bezpieczny-zakup.net
 0.0.0.0 bezpytan.pl
 0.0.0.0 static1.bfdcdn.com
 0.0.0.0 bfglasses.com
@@ -3419,6 +3417,7 @@
 0.0.0.0 brohoof.pl
 0.0.0.0 brominer.com
 0.0.0.0 brooklynlilly.com
+0.0.0.0 brooks-polska.com
 0.0.0.0 hgssa.browla.com
 0.0.0.0 browsefeatureaasn31254.buzz
 0.0.0.0 browsermine.com
@@ -3800,7 +3799,6 @@
 0.0.0.0 media.cheshi-img.com
 0.0.0.0 click.cheshi.com
 0.0.0.0 pv.cheshi.com
-0.0.0.0 chestnut-hill-farm.com
 0.0.0.0 m.chexiw.com
 0.0.0.0 e.chfuw.com
 0.0.0.0 m.chfuw.com
@@ -4320,6 +4318,8 @@
 0.0.0.0 kobietazaszczepiona.co.pl
 0.0.0.0 kosmetyczne-wow.co.pl
 0.0.0.0 learn-to-observe.co.pl
+0.0.0.0 loguj-praca.co.pl
+0.0.0.0 lokalneinfo.co.pl
 0.0.0.0 ochronasrodowiska.co.pl
 0.0.0.0 otopraca.co.pl
 0.0.0.0 papaws.co.pl
@@ -4871,6 +4871,7 @@
 0.0.0.0 decodorebasic.pl
 0.0.0.0 decydujmy-wspolnie.eu
 0.0.0.0 decynsire.com
+0.0.0.0 decyzja-wlasciwa.eu
 0.0.0.0 ad.dedecms.com
 0.0.0.0 stat.dedecms.com
 0.0.0.0 deducingsi.xyz
@@ -4887,6 +4888,7 @@
 0.0.0.0 olxpl.delivery-b.site
 0.0.0.0 delivery-olx-pl.info
 0.0.0.0 delivery-olx.ml
+0.0.0.0 olxpl.delivery-pay.pw
 0.0.0.0 olx.pl.delivery-pays.pw
 0.0.0.0 delivery-pl-olx.site
 0.0.0.0 olx.pl.delivery-transit.xyz
@@ -5027,7 +5029,6 @@
 0.0.0.0 dietasekret.pl
 0.0.0.0 dietasouthbeach.com.pl
 0.0.0.0 dietetykawyszkow.pl
-0.0.0.0 dietetykbialystok.pl
 0.0.0.0 dietstars.pro
 0.0.0.0 differentpplz.top
 0.0.0.0 difnxm.cn
@@ -5149,7 +5150,6 @@
 0.0.0.0 dobrapraktykakk.pl
 0.0.0.0 dobre-filmy.pl
 0.0.0.0 dobre-programy.xyz
-0.0.0.0 dobrecenymebli.pl
 0.0.0.0 dobredeale.pl
 0.0.0.0 dobreprogramy.pro
 0.0.0.0 doceniajcomasz70.site
@@ -5271,6 +5271,7 @@
 0.0.0.0 dostawa24-olx.pl
 0.0.0.0 dostawaca24.online
 0.0.0.0 dostawajaros.top
+0.0.0.0 dostawaolx.pl
 0.0.0.0 dostawaolx.site
 0.0.0.0 dostawapost24.pl
 0.0.0.0 dostawe-olx.pl
@@ -5314,7 +5315,6 @@
 0.0.0.0 download-24.tk
 0.0.0.0 downloadfile.eu
 0.0.0.0 downloadfiles.pl
-0.0.0.0 downloadnature.com
 0.0.0.0 downloads-mobile.com
 0.0.0.0 downloadtuesday.com
 0.0.0.0 downloaduj.pl
@@ -5688,6 +5688,7 @@
 0.0.0.0 xt.eh6q.cn
 0.0.0.0 ehbmjq.icu
 0.0.0.0 olszewski.ehost.pl
+0.0.0.0 polska24.ehost.pl
 0.0.0.0 e.ehxyz.com
 0.0.0.0 m.ehxyz.com
 0.0.0.0 s1.ei16h.cn
@@ -5967,6 +5968,7 @@
 0.0.0.0 expresovo.com
 0.0.0.0 express-dhl.com
 0.0.0.0 express-inpost.com
+0.0.0.0 express-olx.pl
 0.0.0.0 express-paczka.today
 0.0.0.0 express-pocztex.com
 0.0.0.0 expresscash.pl
@@ -6276,8 +6278,6 @@
 0.0.0.0 finantiko.com
 0.0.0.0 find-best-profits.com
 0.0.0.0 icloud.find-ip.us
-0.0.0.0 findfiooos.xyz
-0.0.0.0 findmyiphone-id.pw
 0.0.0.0 findprofile.net.pl
 0.0.0.0 img.findqc.com
 0.0.0.0 show.findqc.com
@@ -6484,6 +6484,7 @@
 0.0.0.0 fromako.pl
 0.0.0.0 360vip.front99.com
 0.0.0.0 panel.home.pl.frustone.it
+0.0.0.0 pl.olx.fsb-pays.tk
 0.0.0.0 e.fsdlu.cn
 0.0.0.0 m.fsdlu.cn
 0.0.0.0 e.fshet.com
@@ -6669,6 +6670,8 @@
 0.0.0.0 play.mine.gay-hotvideo.net
 0.0.0.0 gayfakt.pl
 0.0.0.0 ask.gaykes.com
+0.0.0.0 gazeta-ciekawostki.xyz
+0.0.0.0 gazeta-informacja.xyz
 0.0.0.0 gazetabracka.eu
 0.0.0.0 gazetalublin.pl
 0.0.0.0 gazetalubuski.pl
@@ -7027,7 +7030,6 @@
 0.0.0.0 grassridgekennel.com
 0.0.0.0 gratyfikantgt.info
 0.0.0.0 grazefoot.com
-0.0.0.0 grazkanieruchomosci.pl
 0.0.0.0 great-prizes-here.info
 0.0.0.0 great-prizeshere.life
 0.0.0.0 ad.greedland.net
@@ -8091,6 +8093,7 @@
 0.0.0.0 inevitablesituations.com
 0.0.0.0 info-24.cloud
 0.0.0.0 info-fakty24.pl
+0.0.0.0 info-inpost.pl
 0.0.0.0 info-miastowe24.club
 0.0.0.0 info24-warszawa.pl
 0.0.0.0 infobaby.pl
@@ -8206,6 +8209,7 @@
 0.0.0.0 inpostdoplata.net
 0.0.0.0 inpostkode-pl.com
 0.0.0.0 inpostkode.com
+0.0.0.0 inpostodbior.com
 0.0.0.0 inpostodkaz.net
 0.0.0.0 inprost24.net
 0.0.0.0 inqost.net
@@ -8273,7 +8277,6 @@
 0.0.0.0 investchambers.com
 0.0.0.0 investingops.com
 0.0.0.0 investmarket.info
-0.0.0.0 investreviewier.com
 0.0.0.0 api.inwemo.com
 0.0.0.0 inwestujemy.online
 0.0.0.0 inwestujmy.online
@@ -8513,7 +8516,6 @@
 0.0.0.0 jamajkazorawy.pl
 0.0.0.0 ad.jamba.net
 0.0.0.0 jamba.pl
-0.0.0.0 jamnikioli.pl
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 jamster.pl
 0.0.0.0 s.jandan.com
@@ -8731,7 +8733,6 @@
 0.0.0.0 m.jollyspring.com
 0.0.0.0 rd596n.jomodns.com
 0.0.0.0 jonakurier.org
-0.0.0.0 joplionnsld.xyz
 0.0.0.0 jordenmadsen.com
 0.0.0.0 netflix.pl.josepablonoguera.net
 0.0.0.0 joy-box.pl
@@ -8923,7 +8924,6 @@
 0.0.0.0 kaltive.com
 0.0.0.0 kamilapaczka.org
 0.0.0.0 kamilszymanski.com.pl
-0.0.0.0 kanapa.tv
 0.0.0.0 kancelaria-jasiewicz.pl
 0.0.0.0 kancelaria-prawna-katowice.pl
 0.0.0.0 kancelariakufieta.pl
@@ -10100,7 +10100,6 @@
 0.0.0.0 maralgel.pro
 0.0.0.0 marcofama.it
 0.0.0.0 marebalticum.pl
-0.0.0.0 marekdoniec.com
 0.0.0.0 marekporwol.pl
 0.0.0.0 marginelite.com
 0.0.0.0 marialoechert.pl
@@ -10213,7 +10212,6 @@
 0.0.0.0 mdx500.com
 0.0.0.0 mdzvoi.cn
 0.0.0.0 me-olx.com
-0.0.0.0 meatloafcake.com
 0.0.0.0 mebablo.com
 0.0.0.0 meble-smolec.pl
 0.0.0.0 meblenazamowieniereda.pl
@@ -10576,7 +10574,6 @@
 0.0.0.0 miutro.com
 0.0.0.0 mix-parkiet.pl
 0.0.0.0 udata.mixmarket.biz
-0.0.0.0 mixopony.pl
 0.0.0.0 mixstory.club
 0.0.0.0 ttts.miyue17.com
 0.0.0.0 mj70.cn
@@ -11680,6 +11677,7 @@
 0.0.0.0 pl-olx.safe.oferta-payment.org
 0.0.0.0 pl.olx-pay.oferta-payment.org
 0.0.0.0 pl.olx-safe.oferta-payment.org
+0.0.0.0 olx.pl.oferta-payment.shop
 0.0.0.0 delivery.olx.pl.oferta.accountant
 0.0.0.0 delivery.olx.oferta.contact
 0.0.0.0 olx.pl.oferta.cyou
@@ -11933,7 +11931,6 @@
 0.0.0.0 olx-pl-delivery.info
 0.0.0.0 olx-pl-delivery.su
 0.0.0.0 olx-pl-dostava.cc
-0.0.0.0 olx-pl-dostawa.art
 0.0.0.0 olx-pl-dostawa.casa
 0.0.0.0 olx-pl-dostawa.cc
 0.0.0.0 olx-pl-dostawa.info
@@ -11942,7 +11939,6 @@
 0.0.0.0 olx-pl-dostawa.net
 0.0.0.0 olx-pl-dostawa.news
 0.0.0.0 olx-pl-dostawa.today
-0.0.0.0 olx-pl-dostawa.xyz
 0.0.0.0 olx-pl-id-749141.ru
 0.0.0.0 olx-pl-id-759147.ru
 0.0.0.0 olx-pl-id.ru
@@ -11989,6 +11985,7 @@
 0.0.0.0 olx-rozdac.pl
 0.0.0.0 olx-save.pl
 0.0.0.0 olx-secure.pl
+0.0.0.0 olx-seller.pl
 0.0.0.0 olx-service.pl
 0.0.0.0 pl.olx-ship.eu
 0.0.0.0 olx-shipping.eu
@@ -12004,7 +12001,6 @@
 0.0.0.0 olx-wyplata.pl
 0.0.0.0 olx-y.pl
 0.0.0.0 olx-z.pl
-0.0.0.0 olx-zamowienie.art
 0.0.0.0 olx-zamowienie.cc
 0.0.0.0 olx-zamowienie.co
 0.0.0.0 olx-zamowienie.eu
@@ -12019,6 +12015,7 @@
 0.0.0.0 olx.blue
 0.0.0.0 olx.ink
 0.0.0.0 olx.so
+0.0.0.0 olxbank.cc
 0.0.0.0 olxdostawa.com
 0.0.0.0 olxdostawa.pl
 0.0.0.0 olxoferta.digital
@@ -12037,6 +12034,7 @@
 0.0.0.0 olxpl-pays.online
 0.0.0.0 olxpl-safe.com
 0.0.0.0 olxpl-safe.online
+0.0.0.0 olxpl-transfer.site
 0.0.0.0 olxpl.app
 0.0.0.0 olxpl.co
 0.0.0.0 olxpl.deals
@@ -12092,7 +12090,6 @@
 0.0.0.0 onet-wiadomosc.online
 0.0.0.0 onet-wiadomosc.xyz
 0.0.0.0 onet-zaginieni-24.pl
-0.0.0.0 onet24-polska.space
 0.0.0.0 onet24polska.eu
 0.0.0.0 code11.onetad.com
 0.0.0.0 code12.onetad.com
@@ -12438,7 +12435,6 @@
 0.0.0.0 pakafast4you24h.club
 0.0.0.0 pakownia.net
 0.0.0.0 palenate.com
-0.0.0.0 palloosweddings.com
 0.0.0.0 paloki-pl.com
 0.0.0.0 pamelambarnettcounseling.com
 0.0.0.0 play.pampopholf.com
@@ -12504,7 +12500,6 @@
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
 0.0.0.0 pay-u24.net
-0.0.0.0 pay24-paczka.com
 0.0.0.0 avito.pay24in.ru
 0.0.0.0 pay2me.pl
 0.0.0.0 payageround-1.live
@@ -12612,7 +12607,6 @@
 0.0.0.0 pertiso555.com
 0.0.0.0 ll.pesbbw.cn
 0.0.0.0 jd.com.pesbbw.cn
-0.0.0.0 peterjack.pl
 0.0.0.0 pewnyzabieg.pl
 0.0.0.0 pey24pey.net
 0.0.0.0 peyernet.net
@@ -12822,6 +12816,7 @@
 0.0.0.0 olx.pl-id502395.site
 0.0.0.0 olx.pl-id519249.icu
 0.0.0.0 olx.pl-id546999.site
+0.0.0.0 olx.pl-id572349.site
 0.0.0.0 olx.pl-id582952.site
 0.0.0.0 olx.pl-id593053.site
 0.0.0.0 olx.pl-id594023.site
@@ -12842,6 +12837,7 @@
 0.0.0.0 olx.pl-id850395.site
 0.0.0.0 olx.pl-id8572662.site
 0.0.0.0 olx.pl-id857548.site
+0.0.0.0 olx.pl-id8592340.site
 0.0.0.0 olx.pl-id869596.site
 0.0.0.0 olx.pl-id876999.site
 0.0.0.0 olx.pl-id9269662.site
@@ -12865,10 +12861,10 @@
 0.0.0.0 olx.pl-logowanie.online
 0.0.0.0 olx.pl-logowanie.shop
 0.0.0.0 olx.pl-logowanie.site
-0.0.0.0 olx.pl-logowanie.store
 0.0.0.0 olx.pl-logowanie.xyz
 0.0.0.0 pl-m.xyz
 0.0.0.0 olx.pl-mobile.shop
+0.0.0.0 inpost.pl-money.life
 0.0.0.0 pl-nadaj.online
 0.0.0.0 olx.pl-oferta.com
 0.0.0.0 pl-oferta.info
@@ -12895,6 +12891,7 @@
 0.0.0.0 olx.pl-pay.link
 0.0.0.0 olx.pl-pay.shop
 0.0.0.0 olx.pl-pay.su
+0.0.0.0 olx.pl-payment.life
 0.0.0.0 inpost.pl-payment.link
 0.0.0.0 olx.pl-payment.link
 0.0.0.0 olx.pl-payment.me
@@ -12910,11 +12907,13 @@
 0.0.0.0 olx.pl-przesylka.link
 0.0.0.0 olx.pl-przesylka.live
 0.0.0.0 olx.pl-receive.cash
+0.0.0.0 inpost.pl-receive.life
 0.0.0.0 olx.pl-safe.cash
 0.0.0.0 olx.pl-safe.delivery
 0.0.0.0 inpost.pl-safe.shop
 0.0.0.0 inpost.pl-safecash.link
 0.0.0.0 olx.pl-safecash.link
+0.0.0.0 olx.pl-safecash.live
 0.0.0.0 olx.pl-safecash.shop
 0.0.0.0 olx.pl-safedeal.fun
 0.0.0.0 olx.pl-safedeal.link
@@ -12945,7 +12944,6 @@
 0.0.0.0 pffn.pl.tn
 0.0.0.0 start.placetolearn.io
 0.0.0.0 placidocn.com
-0.0.0.0 plainsviewfarm.com
 0.0.0.0 plakatypropagandowe.pl
 0.0.0.0 plansznoobki.pl
 0.0.0.0 plantsandpots.com
@@ -13031,6 +13029,7 @@
 0.0.0.0 pobierznet.pl
 0.0.0.0 pobierzpliki.pl
 0.0.0.0 pobierzteraz.mobi
+0.0.0.0 pochwal-glosami.eu
 0.0.0.0 pocketmyponstar.com
 0.0.0.0 a-m-s.poco.cn
 0.0.0.0 poczta-email.online
@@ -13230,7 +13229,6 @@
 0.0.0.0 porwaniedziecki24.pl
 0.0.0.0 porwanienatalki.eu
 0.0.0.0 porwanienatalki.online
-0.0.0.0 poshettescafe.com
 0.0.0.0 post-990094.at
 0.0.0.0 post-send.host
 0.0.0.0 post-send.life
@@ -13375,6 +13373,19 @@
 0.0.0.0 www.prjslxhtx009.top
 0.0.0.0 www.prjslxhtx010.top
 0.0.0.0 pro.cn
+0.0.0.0 probablerootport-10.live
+0.0.0.0 probablerootport-11.live
+0.0.0.0 probablerootport-12.live
+0.0.0.0 probablerootport-13.live
+0.0.0.0 probablerootport-14.live
+0.0.0.0 probablerootport-15.live
+0.0.0.0 probablerootport-2.live
+0.0.0.0 probablerootport-3.live
+0.0.0.0 probablerootport-4.live
+0.0.0.0 probablerootport-5.live
+0.0.0.0 probablerootport-6.live
+0.0.0.0 probablerootport-7.live
+0.0.0.0 probablerootport-8.live
 0.0.0.0 probolan50.pl
 0.0.0.0 procardia.com.pl
 0.0.0.0 procars-shoppl1.com
@@ -13528,6 +13539,7 @@
 0.0.0.0 pic.punchbox.org
 0.0.0.0 uapi.punchbox.org
 0.0.0.0 w.punchbox.org
+0.0.0.0 punktowanie-konkursu.eu
 0.0.0.0 e.puooi.com
 0.0.0.0 m.puooi.com
 0.0.0.0 purchase-olx.pl
@@ -14019,7 +14031,6 @@
 0.0.0.0 www.rannabio.com
 0.0.0.0 ranslitera.xyz
 0.0.0.0 raportpobierz.com
-0.0.0.0 rathbone-art.com
 0.0.0.0 ratilis.com
 0.0.0.0 raucomtodentketp.cf
 0.0.0.0 analytics.rayjump.com
@@ -14371,6 +14382,7 @@
 0.0.0.0 sameperelki.shop
 0.0.0.0 sami-oceniamy.eu
 0.0.0.0 samochodzik.club
+0.0.0.0 samodzielnie-decyduj.eu
 0.0.0.0 samsung-klimatyzacja.pl
 0.0.0.0 samuraibangalore.com
 0.0.0.0 samxtrade.com
@@ -14387,7 +14399,6 @@
 0.0.0.0 pre.api.tw06.xlmc.sandai.net
 0.0.0.0 sandomir.pl
 0.0.0.0 sandrografia.pl
-0.0.0.0 sangiovannipizza.com
 0.0.0.0 lkf1.m.sanhao3.com
 0.0.0.0 e.sanitwealth.com
 0.0.0.0 m.sanjiangge.com
@@ -14533,7 +14544,6 @@
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 secure-payuser01.serveirc.com
 0.0.0.0 server-payuser1.com
-0.0.0.0 excelfile.server4glite.com
 0.0.0.0 service-pay.company
 0.0.0.0 service4refresh.info
 0.0.0.0 activity.serving-sys.com
@@ -14853,8 +14863,6 @@
 0.0.0.0 skleptaniebuty.pl
 0.0.0.0 skleptus.pl
 0.0.0.0 sklepygucci.pl
-0.0.0.0 sklepynb.pl
-0.0.0.0 sklepypuma.pl
 0.0.0.0 sknrtel.com
 0.0.0.0 skomtczew.pl
 0.0.0.0 skpfalenty.pl
@@ -14893,7 +14901,6 @@
 0.0.0.0 sugs.m.sm.cn
 0.0.0.0 sm4ll.in
 0.0.0.0 smaato.net
-0.0.0.0 smakifrancji.pl
 0.0.0.0 smart-light.pl
 0.0.0.0 smart-m-system.com
 0.0.0.0 akamai.smartadserver.com
@@ -15511,7 +15518,6 @@
 0.0.0.0 mo.syrki.xyz
 0.0.0.0 ss.sysad.cn
 0.0.0.0 ss.sysadult.cn
-0.0.0.0 system-team-online.site
 0.0.0.0 systemchlodzeniamglapl.com
 0.0.0.0 systemrma.pl
 0.0.0.0 www.sytcyf.com
@@ -15524,6 +15530,7 @@
 0.0.0.0 szaszlyk.biz
 0.0.0.0 szaszlyk.club
 0.0.0.0 szczepienie.net.pl
+0.0.0.0 szczesliwca-wybierz.eu
 0.0.0.0 szczesliwy-traf.eu
 0.0.0.0 szczesliwydzien.com
 0.0.0.0 szczuplezwyczaje.pl
@@ -15560,6 +15567,7 @@
 0.0.0.0 szybkapozyczkateraz.pl
 0.0.0.0 szybkaupadlosc.pl
 0.0.0.0 szybkie-przesylki.xyz
+0.0.0.0 szybkie-wysylki.online
 0.0.0.0 szybkiedostawydpd.pl
 0.0.0.0 szybkieinfo.pl
 0.0.0.0 szybkiezycie1.online
@@ -15594,7 +15602,6 @@
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 tabxolabs.com
 0.0.0.0 tacticaltrainingdatabase.com
-0.0.0.0 tadeuszgruszka.pl
 0.0.0.0 ssp.tadseeker.com
 0.0.0.0 pix.tagcdn.com
 0.0.0.0 ad7.tagphi.net
@@ -16152,7 +16159,6 @@
 0.0.0.0 trofeum-zdobywamy.eu
 0.0.0.0 tropik.com.pl
 0.0.0.0 trotamundos.com.pl
-0.0.0.0 troubadourbaker.com
 0.0.0.0 trsmarkets.com
 0.0.0.0 tru.am
 0.0.0.0 truegamers.ga
@@ -16163,7 +16169,6 @@
 0.0.0.0 r2.tschewang.com
 0.0.0.0 ve.tsdlp.com
 0.0.0.0 ye.tsdlp.com
-0.0.0.0 tsg-polska.pl
 0.0.0.0 safe.tsgpay.cn
 0.0.0.0 e.tspric.cn
 0.0.0.0 so.tsscnw.cn
@@ -16469,6 +16474,7 @@
 0.0.0.0 unitedmedsshop.com
 0.0.0.0 unitedproductsllc.net
 0.0.0.0 unitrafan.pl
+0.0.0.0 universal-mobileapp-inventory.net
 0.0.0.0 unixbroker.com
 0.0.0.0 unmillondeutilidades.com
 0.0.0.0 unnathimilk.com
@@ -16542,6 +16548,7 @@
 0.0.0.0 m.uxnycjr.cn
 0.0.0.0 xhyd.uxyrl.cn
 0.0.0.0 img.uyangyong.cn
+0.0.0.0 app-postrackingc.parcel.pl.uyfm.co.za
 0.0.0.0 www.uyunad.com
 0.0.0.0 e.uzhaj.com
 0.0.0.0 m.uzhaj.com
@@ -16805,6 +16812,7 @@
 0.0.0.0 glosowanie-wielkopolska.vot.pl
 0.0.0.0 kochamyzwierzeta.vot.pl
 0.0.0.0 lgbt-fans.vot.pl
+0.0.0.0 oblesni.vot.pl
 0.0.0.0 obrazkowo.vot.pl
 0.0.0.0 photohub.vot.pl
 0.0.0.0 plebiscyt-lublin.vot.pl
@@ -17055,6 +17063,7 @@
 0.0.0.0 askzkoflds.web.app
 0.0.0.0 bank-ing.web.app
 0.0.0.0 eqvpismqyp.web.app
+0.0.0.0 herngell-our.web.app
 0.0.0.0 izlogin-webmail.web.app
 0.0.0.0 mabanque-bnpparibas-ref-31-fr.web.app
 0.0.0.0 mabanque-bnpparibas-ref-34-fr.web.app
@@ -17561,6 +17570,7 @@
 0.0.0.0 wp-regulamin.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
+0.0.0.0 wp1login.waw.pl
 0.0.0.0 wpadkowo.pl
 0.0.0.0 wpiata-paczkomat.host
 0.0.0.0 wpisy-wynikow.eu
@@ -17568,6 +17578,7 @@
 0.0.0.0 wplata-inpost.cyou
 0.0.0.0 wplata-paczkomat-24.space
 0.0.0.0 wplata-przesylka-online.live
+0.0.0.0 wppgnig.pw
 0.0.0.0 wprost-news.pl
 0.0.0.0 1.wps.cn
 0.0.0.0 android-lrcresource.wps.cn
@@ -17686,6 +17697,8 @@
 0.0.0.0 wybierzgdansk.pl
 0.0.0.0 wybor-podpunktu.eu
 0.0.0.0 wybor-reprezentanta.eu
+0.0.0.0 wyboru-dokonaj.eu
+0.0.0.0 wybrany-ten.eu
 0.0.0.0 wycenamaszyn-wgn.pl
 0.0.0.0 wyciag-gwarek.pl
 0.0.0.0 wyciekizdjec24.pl
