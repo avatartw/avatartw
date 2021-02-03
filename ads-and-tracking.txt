@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-02T18:39:53.401Z
+! Last modified: 2021-02-03T16:56:24.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -1540,7 +1540,7 @@
 ||dm.aizhan.com^
 ||dmm.aizhan.com^
 ||fpbb.aizhan.com^
-||aj2073.online^
+||ns9.aj2073.online^
 ||ajadijobs.com^
 ||ajasin.com^
 ||ajaxcdn.org^
@@ -2183,7 +2183,6 @@
 ||anobi.net^
 ||anonext.com^
 ||anonix.org^
-||ww1.anonymityonline.org^
 ||another1st.org^
 ||anphekhang.info^
 ||anpurnapost.com^
@@ -2284,7 +2283,6 @@
 ||app-measurement.com^
 ||app-messenger-lite.com^
 ||diffuser-cdn.app-us1.com^
-||app4adsnet.com^
 ||jupiter.appads.com^
 ||jupiter1.appads.com^
 ||jupiter2.appads.com^
@@ -2775,8 +2773,6 @@
 ||webtuneup.avg.com^
 ||avgaa.com^
 ||avgmobilisation.com^
-||ww11.avgpctuneup2019.info^
-||ww38.avgpctuneup2019.info^
 ||mamka.aviasales.ru^
 ||places.aviasales.ru^
 ||avidabank.com^
@@ -2802,6 +2798,7 @@
 ||aw8wedawhjfs.info^
 ||awakon.com^
 ||awanas.org^
+||awansuj-kolegow.eu^
 ||awansuj-kumpla.eu^
 ||awansuj-przyjaciela.eu^
 ||awansujmy-ludzie.eu^
@@ -3498,6 +3495,7 @@
 ||best2020-games-web1.com^
 ||bestadbid.com^
 ||bestagd.eu^
+||bestalphasearch.com^
 ||bestamateurporn.org^
 ||bestbackorder.com^
 ||bestbook-library.com^
@@ -4686,6 +4684,7 @@
 ||c0i8h8ac7e.bid^
 ||c3metrics.com^
 ||c3tag.com^
+||ing.pl.proxy.c7s.io^
 ||ca-conv.jp^
 ||collinsink.cabanova.com^
 ||ad.cacafly.com^
@@ -5718,6 +5717,8 @@
 ||kobietazaszczepiona.co.pl^
 ||kosmetyczne-wow.co.pl^
 ||learn-to-observe.co.pl^
+||loguj-praca.co.pl^
+||lokalneinfo.co.pl^
 ||ochronasrodowiska.co.pl^
 ||otopraca.co.pl^
 ||papaws.co.pl^
@@ -6106,6 +6107,7 @@
 ||copysubstancepattern7.live^
 ||copysubstancepattern8.live^
 ||copysubstancepattern9.live^
+||copytradecapital.co.uk^
 ||copywritingtools.club^
 ||coqukoq.com^
 ||corazonessolitarios.com^
@@ -6793,6 +6795,7 @@
 ||decyzja-wlasciwa.eu^
 ||dedell.com^
 ||deducingsi.xyz^
+||dedykowac-wygrana.eu^
 ||deepakprakashan.com^
 ||deepfryers.info^
 ||deepikarai.com^
@@ -6825,6 +6828,7 @@
 ||olxpl.delivery-b.site^
 ||delivery-olx-pl.info^
 ||delivery-olx.ml^
+||olxpl.delivery-pay.pw^
 ||olx.pl.delivery-pays.pw^
 ||delivery-pl-olx.site^
 ||olx.pl.delivery-transit.xyz^
@@ -7398,6 +7402,7 @@
 ||dopowiedzenie-sobie.eu^
 ||doppler10.com^
 ||dopuf.com^
+||doradzaj-znajomym.eu^
 ||olx.doreczanie.pl^
 ||doreczyciel24.net^
 ||doreczyciele.net^
@@ -7464,6 +7469,7 @@
 ||dostawa24-olx.pl^
 ||dostawaca24.online^
 ||dostawajaros.top^
+||dostawaolx.pl^
 ||dostawaolx.site^
 ||dostawapost24.pl^
 ||dostawe-olx.pl^
@@ -8109,6 +8115,7 @@
 ||ehepatitis.com^
 ||ehormy.com^
 ||olszewski.ehost.pl^
+||polska24.ehost.pl^
 ||ehsonlinehighschool.org^
 ||eiceresources.org^
 ||eiecaw.com^
@@ -8670,6 +8677,7 @@
 ||expresovo.com^
 ||express-dhl.com^
 ||express-inpost.com^
+||express-olx.pl^
 ||express-paczka.today^
 ||express-pocztex.com^
 ||expresscameras.com^
@@ -9643,6 +9651,7 @@
 ||fryetv.com^
 ||frytolay.com^
 ||fs-creations.org^
+||pl.olx.fsb-pays.tk^
 ||fsbt.org^
 ||fsibog.com^
 ||fss24.org^
@@ -13061,6 +13070,7 @@
 ||justdoit-polska.com^
 ||justfor5dollar.com^
 ||justforcurves.com^
+||postid-79348548.justgreece.org^
 ||justimtv.com^
 ||justindrwphotos.com^
 ||justintvizle.org^
@@ -13736,8 +13746,7 @@
 ||kusharice.com^
 ||kusursuz.info^
 ||kuszowka.pl^
-||autodiscover.kutsatsa.com^
-||webdisk.kutsatsa.com^
+||kutsatsa.com^
 ||platnosci.netflix.kutuasetat.com^
 ||kuwabuj.com^
 ||c.kuwo.cn^
@@ -14861,6 +14870,7 @@
 ||mahajana.info^
 ||mahan-news.com^
 ||mahasagar.com^
+||www.mahienterprises.info^
 ||mahjongline.com^
 ||mahohaq.com^
 ||mahrashtraeducation.com^
@@ -15155,6 +15165,7 @@
 ||masere.pl^
 ||masfamiliasenaccion.com^
 ||mashero.com^
+||beta.mashface.com^
 ||masiodls.com^
 ||maska-oddechowa-kn95-pl.com^
 ||maski-sklep.pl^
@@ -15599,6 +15610,7 @@
 ||miamicraiglist.com^
 ||miamivice.info^
 ||miamizoo.org^
+||mianowac-zwyciezcow.eu^
 ||miaozhen.com^
 ||miastadwazero.pl^
 ||miastowe24.eu^
@@ -16148,6 +16160,7 @@
 ||formularzszczegowyowa.moonfruit.com^
 ||helploginn.moonfruit.com^
 ||itdept.moonfruit.com^
+||pocztaadminhelpdeskcenter.moonfruit.com^
 ||pocztain.moonfruit.com^
 ||uprawomocnic.moonfruit.com^
 ||verify-updatebfkmhgshgs.moonfruit.com^
@@ -16512,6 +16525,7 @@
 ||myfox4weather.com^
 ||myfqdn.info^
 ||myfraacams.com^
+||myfreecamz.net^
 ||special-news.myfreesites.net^
 ||ads.mygc.com.au^
 ||mygeoweb.info^
@@ -16745,6 +16759,7 @@
 ||nasdacoin.io^
 ||nassau.info^
 ||nassy.pl^
+||nastawiaj-porzadnie.eu^
 ||nastepstwo-pomozmy.eu^
 ||nastik5.com^
 ||naswiecie.work^
@@ -17995,6 +18010,7 @@
 ||olx-rozdac.pl^
 ||olx-save.pl^
 ||olx-secure.pl^
+||olx-seller.pl^
 ||olx-service.pl^
 ||pl.olx-ship.eu^
 ||olx-shipping.eu^
@@ -18023,7 +18039,9 @@
 ||olx-zaplata.pl^
 ||olx.blue^
 ||olx.ink^
+||olx.pink^
 ||olx.so^
+||olxbank.cc^
 ||olxdostawa.com^
 ||olxdostawa.pl^
 ||olxoferta.digital^
@@ -18111,6 +18129,7 @@
 ||onet-informacje.xyz^
 ||onet-news24.eu^
 ||onet-news24.pl^
+||onet-nowosci.xyz^
 ||onet-online.pl^
 ||onet-poznan.xyz^
 ||onet-praca.online^
@@ -18411,6 +18430,7 @@
 ||oshtrain.org^
 ||osiedlebrzechwy.com.pl^
 ||osiedlecetnarskiego.pl^
+||osiedlewidok.pl^
 ||osiedlewillowa.pl^
 ||oskmiekisiak.pl^
 ||oslony-okienne.pl^
@@ -19202,8 +19222,11 @@
 ||t.pkthop.com^
 ||u.pkthop.com^
 ||olx.pl-098665.site^
+||olx.pl-cash.life^
 ||olx.pl-cash.link^
+||olx.pl-cash.live^
 ||olx.pl-confirm.site^
+||olx.pl-delivery.life^
 ||pl-dostawa.club^
 ||olx.pl-dostawa.com^
 ||inpost.pl-dostawa.life^
@@ -19323,6 +19346,7 @@
 ||pl-m.xyz^
 ||olx.pl-mobile.shop^
 ||inpost.pl-money.life^
+||olx.pl-money.live^
 ||pl-nadaj.online^
 ||olx.pl-oferta.com^
 ||pl-oferta.info^
@@ -19365,6 +19389,7 @@
 ||olx.pl-przesylka.link^
 ||olx.pl-przesylka.live^
 ||olx.pl-receive.cash^
+||inpost.pl-receive.life^
 ||olx.pl-safe.cash^
 ||olx.pl-safe.delivery^
 ||inpost.pl-safe.shop^
@@ -19386,6 +19411,7 @@
 ||olx.pl-safeway.shop^
 ||inpost.pl-savecash.life^
 ||inpost.pl-savecash.live^
+||olx.pl-savemoney.life^
 ||inpost.pl-saveorder.life^
 ||olx.pl-sprzedaz.info^
 ||olx.pl-srodki.cc^
@@ -19527,8 +19553,10 @@
 ||plpocztex.net^
 ||plpocztex.org^
 ||plpostkode.com^
+||plus-500.ltd^
 ||plus-finanse.pl^
 ||plus-iidl.com^
+||plus500.ltd^
 ||plus7.info^
 ||pluscontroller.com^
 ||plusiidi.com^
@@ -19557,6 +19585,7 @@
 ||pobierzpliki.pl^
 ||pobierzteraz.mobi^
 ||poboh.com^
+||pochwal-glosami.eu^
 ||pocketmyponstar.com^
 ||pocketpcheaven.com^
 ||poczta-email.online^
@@ -19624,6 +19653,7 @@
 ||podersdorf.info^
 ||poderwap.info^
 ||connect.podium.com^
+||podkresl-znajomego.eu^
 ||podologik.ca^
 ||facebook.podpisz-petycje.eu^
 ||fb.podpisz-petycje.eu^
@@ -19662,6 +19692,7 @@
 ||pol-news24.pl^
 ||polaki.shop^
 ||poland-dostawa.com^
+||poland-oferta.shop^
 ||polandinline.com^
 ||poldasumbar.info^
 ||polenboeller-deutschland.com^
@@ -20000,6 +20031,7 @@
 ||premiumlinkgenerator.online^
 ||premiumqualitybeef.com^
 ||premiumstats.xyz^
+||premiumtradecapital.co.uk^
 ||premsearch.com^
 ||preorderdotco.com^
 ||prepaidinternetbroadband.com^
@@ -20208,6 +20240,7 @@
 ||przelewonline.website^
 ||przemysl-bieszczady.pl^
 ||przemyslawrenn.pl^
+||przepis-sukcesu.eu^
 ||przepismix.pl^
 ||przeplyw-danych.eu^
 ||przesydh.com^
@@ -21226,6 +21259,7 @@
 ||revoiut.org^
 ||revoloco.com^
 ||film-rs.revolublog.com^
+||revolution-fx.cc^
 ||revox-bandmaschine.com^
 ||revspotppix.info^
 ||rewardsecure.com^
@@ -22128,6 +22162,7 @@
 ||service4refresh.info^
 ||servicecreditunion.net^
 ||serviceexpertcares.com^
+||servieckartepayau.com^
 ||serving-sys.com^
 ||servinggta.com^
 ||polska24.serwerplus.pl^
@@ -23488,6 +23523,7 @@
 ||stonecalcom.com^
 ||stoommachine.info^
 ||stooree.com^
+||stop-gmo.pl^
 ||stopanimalcrueltyhsc.org^
 ||stopcodex.pl^
 ||stopkomornikowi.pl^
@@ -23660,6 +23696,7 @@
 ||sunnimiq5.cf^
 ||sunnimiq6.cf^
 ||sunnygals.com^
+||sunrisedvdrentals.com^
 ||sunsetclubs.org^
 ||sunsetpta.info^
 ||sunshinecityciputra.info^
@@ -24808,7 +24845,6 @@
 ||toedrawer.com^
 ||tofly7.com^
 ||toftofcal.com^
-||www.togelmaya.info^
 ||togethercleareducation10.live^
 ||togethercleareducation14.live^
 ||togethercleareducation15.live^
@@ -25007,6 +25043,7 @@
 ||trableflick.com^
 ||tracdelight.io^
 ||tracead.com^
+||tracemyip.org^
 ||tracerout.org^
 ||trachbilling.com^
 ||track-enable.com^
@@ -25839,6 +25876,7 @@
 ||uvy3.pl^
 ||uwagainfo24.eu^
 ||uwata.org^
+||app-postrackingc.parcel.pl.uyfm.co.za^
 ||www.uyunad.com^
 ||uzbek.info^
 ||uzfilis.com^
@@ -26740,6 +26778,7 @@
 ||weeblstuf.com^
 ||higder.weebly.com^
 ||pemberitahuanfb.weebly.com^
+||plcnvz.weebly.com^
 ||polishwebmailadmin.weebly.com^
 ||polishwebmailupgrade.weebly.com^
 ||spainey.weebly.com^
@@ -27413,6 +27452,7 @@
 ||stats.wpmucdn.com^
 ||tracking.wpnetwork.eu^
 ||wpnrc.com^
+||wppgnig.pw^
 ||wprost-news.pl^
 ||1.wps.cn^
 ||android-lrcresource.wps.cn^
@@ -27452,6 +27492,8 @@
 ||sa135.wsbtv.com^
 ||wschodniepapierosy.pl^
 ||wsgreenways.org^
+||wskazuj-wybory.eu^
+||wskazywac-wygranych.eu^
 ||wsod.com^
 ||wsodcdn.com^
 ||wsoddata.com^
@@ -27703,11 +27745,13 @@
 ||wydawnictwobila.pl^
 ||wydhamrewards.com^
 ||wydhamvacationrentals.com^
+||wydzielic-dobroc.eu^
 ||wygeneruj.net^
 ||wygrania.com^
 ||wygrywa.pl^
 ||wyjasniamy.eu^
 ||wyjatek-glosik.eu^
+||wykreowac-glosuj.eu^
 ||wykurwyzpolicji.xyz^
 ||wyleczpc.pl^
 ||wyliczenia-sprawdzaj.eu^
@@ -27750,6 +27794,7 @@
 ||wytypowany-zwyciezca.com^
 ||wytypowany-zwyciezca.pl^
 ||wytypuj-wynik.eu^
+||wytypujemy-razem.eu^
 ||wzmianka-duza.eu^
 ||wzrkt.com^
 ||x-hosepl2.com^
@@ -28636,6 +28681,7 @@
 ||zaglosuj-teraz.eu^
 ||zaglosuje-pomoc.eu^
 ||zaglosuje-wybieraj.eu^
+||zaglosujemy-teraz.eu^
 ||zaglosujmy-wsparcia.eu^
 ||zagner.pl^
 ||zaho.pl^
@@ -28648,6 +28694,8 @@
 ||zajonc.de^
 ||zakup-olx.pl^
 ||zalau.info^
+||zalecanie-wyborow.eu^
+||zalecic-wygrywanie.eu^
 ||zalescredit.com^
 ||zminer.zaloapp.com^
 ||zalukaj-cda.pl^
@@ -28696,6 +28744,7 @@
 ||zapisek-wiadomosci.eu^
 ||zapiski-petycji.eu^
 ||zapisy-akceptuj.eu^
+||zapisz-kompendium.eu^
 ||zapjegos.com^
 ||zaplac-teraz-24.site^
 ||zaplac-teraz.live^
@@ -28850,6 +28899,7 @@
 ||zkkkladno.com^
 ||zkotami.pl^
 ||aa.zldh123.com^
+||zlecaj-wybory.eu^
 ||zlinem.info^
 ||zloty-lider.eu^
 ||zlp6s.pw^
