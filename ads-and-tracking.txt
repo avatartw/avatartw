@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-03T16:56:24.320Z
+! Last modified: 2021-02-04T02:16:00.356Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -773,6 +773,7 @@
 ||absum.ru^
 ||abtasty.com^
 ||abuelasfollando.com^
+||abuse-extensions.com^
 ||abuzada.com^
 ||ac-feedback.com^
 ||acacemy.com^
@@ -1540,7 +1541,6 @@
 ||dm.aizhan.com^
 ||dmm.aizhan.com^
 ||fpbb.aizhan.com^
-||ns9.aj2073.online^
 ||ajadijobs.com^
 ||ajasin.com^
 ||ajaxcdn.org^
@@ -2069,6 +2069,7 @@
 ||ampareinasofia.org^
 ||ampglobalfx.com^
 ||amplepantry.com^
+||ampliacion.xyz^
 ||amplitude.com^
 ||amruthakalyan.com^
 ||amsterdam-apartments.com^
@@ -2081,6 +2082,7 @@
 ||anabim.com^
 ||anacozar.org^
 ||analaurie.com^
+||analsexporno.info^
 ||analysis.fi^
 ||ait025.analysys.cn^
 ||ait240.analysys.cn^
@@ -4455,6 +4457,7 @@
 ||browse.net^
 ||browsee.io^
 ||browsefeatureaasn31254.buzz^
+||browser-stat.com^
 ||browserhawk.com^
 ||browsermine.com^
 ||xdadevelopers.browsi.mobi^
@@ -4703,6 +4706,7 @@
 ||ad.caiyunapp.com^
 ||cakukapu.com^
 ||turystyka.cal.pl^
+||sprawdzto.cal24.pl^
 ||calabriadiamonds.com^
 ||calcaostcu.org^
 ||calcionostra.pl^
@@ -5175,6 +5179,7 @@
 ||cheatwives.com^
 ||cheburashka-bg.com^
 ||check-olx.pl^
+||check-stat.com^
 ||checkaround.info^
 ||checkcode.info^
 ||checkerboardpl.top^
@@ -5933,6 +5938,7 @@
 ||connectadrealtime.com^
 ||connectcarolina.org^
 ||connecthackensackumc.net^
+||connecting-to-the.net^
 ||connessionedati.com^
 ||connetingsingles.com^
 ||connexity.net^
@@ -6120,6 +6126,7 @@
 ||corezone.pl^
 ||cornerstonefcu.com^
 ||cornerstonerecovery.org^
+||cornewus.com^
 ||coronacedral.com^
 ||coronadisco.co.uk^
 ||coronavirustestkit.co.za^
@@ -6538,7 +6545,7 @@
 ||daddysonfack.com^
 ||dadoluga.com^
 ||dadonson.com^
-||daeext.info^
+||www.daeext.info^
 ||daewooelectronics.com^
 ||dafopuj.com^
 ||dafunia.com^
@@ -6792,6 +6799,7 @@
 ||decorsmaison.com^
 ||decydujmy-wspolnie.eu^
 ||decynsire.com^
+||decyzie-podejmj.eu^
 ||decyzja-wlasciwa.eu^
 ||dedell.com^
 ||deducingsi.xyz^
@@ -7518,6 +7526,7 @@
 ||downloadbrite.com^
 ||downloadcollector.com^
 ||downloadcricketgamesforfree.com^
+||downloader-ig.com^
 ||downloader.info^
 ||downloadfile.eu^
 ||downloadfilemgratis.com^
@@ -8686,8 +8695,10 @@
 ||expresspaczki.com^
 ||exprsslane.org^
 ||exramath.org^
+||exstats.com^
 ||exsteze.com^
 ||exszakasz.com^
+||ext-feedback.com^
 ||supervisor.ext-twitch.tv^
 ||extasy-sp.com^
 ||extend.tv^
@@ -8704,6 +8715,7 @@
 ||extremereach.com^
 ||extremereach.io^
 ||extremetracking.com^
+||extstatistics.com^
 ||exw-wallet.com^
 ||exxonmobilaccountline.com^
 ||exy.ai^
@@ -9040,6 +9052,7 @@
 ||fight.co.il^
 ||figlideldivinoamore.org^
 ||figmag.com^
+||figures-analysis.com^
 ||figvam.info^
 ||fiilacurent.info^
 ||fiksu.com^
@@ -11961,6 +11974,7 @@
 ||imagegfap.com^
 ||imagelearning.com^
 ||imagemchefe.com^
+||imagenesbonitas.info^
 ||imagenesparacumpleanos.info^
 ||imagesexplore.info^
 ||imagesoftcorp.com^
@@ -12751,6 +12765,7 @@
 ||jasaweb.biz^
 ||jasnyogrod.pl^
 ||jasperlabs.com^
+||jastats.com^
 ||jaster.pl^
 ||jasuq.com^
 ||jatekbetyar.com^
@@ -12807,6 +12822,7 @@
 ||jeleniedybowskiego.pl^
 ||jelitto.pl^
 ||jelna.info^
+||jelqing.info^
 ||jennifersofas.com^
 ||jenrx2u.com^
 ||jeolladosushi.com^
@@ -12915,6 +12931,7 @@
 ||johnmaddenshoes.com^
 ||johnneygolden.com^
 ||johnnyboy.net^
+||johnoil.com^
 ||johnsanford.org^
 ||joicemeyer.org^
 ||d.joinhoney.com^
@@ -12925,6 +12942,7 @@
 ||jointventures.info^
 ||joker7777.info^
 ||jokermovie.org^
+||jokopinter.com^
 ||e.jollyspring.com^
 ||m.jollyspring.com^
 ||rd596n.jomodns.com^
@@ -13237,6 +13255,7 @@
 ||syndication.kbb.com^
 ||kbbi.info^
 ||kbccp.com^
+||www.kbcom.org^
 ||kbj19.net^
 ||kbkbkb.org^
 ||kbpcollegevashi.net^
@@ -13535,6 +13554,7 @@
 ||konka2.info^
 ||konkurencje-kliknij.eu^
 ||konkursowa-reakcja.eu^
+||konkursowy-wybor.eu^
 ||konkursy.de^
 ||konkursynagrody.pl^
 ||konp.info^
@@ -14127,6 +14147,7 @@
 ||fb-szpieguj.likesyou.org^
 ||likuidator.com^
 ||lilpawsrescue.org^
+||limbo-urg.com^
 ||limewiear.com^
 ||limewire.info^
 ||limkon.com^
@@ -15391,6 +15412,7 @@
 ||medicalquestionsanswers.org^
 ||medicare4b.com^
 ||medicaresupplementinsuranceguide.com^
+||www1.medicaresupplementmentors.com^
 ||medicin.info^
 ||medicreporters.com^
 ||mediterraneanboatrentals.com^
@@ -16443,6 +16465,7 @@
 ||my-olx.shop^
 ||olx.my-pay.info^
 ||olx.my-payment.online^
+||my-sins.com^
 ||my-wifi-ext.net^
 ||my2.net^
 ||faktinvestmetns.mya5.ru^
@@ -16498,6 +16521,7 @@
 ||mydentalimplantsguide.com^
 ||mydepotaccount.com^
 ||mydeptfree.com^
+||mydiaconal.com^
 ||mydickssortinggoods.com^
 ||mydignity.org^
 ||mydiscoverdard.com^
@@ -17409,6 +17433,7 @@
 ||noticias-cambridgeesol.org^
 ||noticias365.info^
 ||notification-list.com^
+||notification-stat.com^
 ||notified-today.com^
 ||notifyday.com^
 ||www.notmining.org^
@@ -18965,6 +18990,7 @@
 ||perucasestoril.com^
 ||peruse.ai^
 ||pestcontrolprofessionalscenter.com^
+||peta-line.com^
 ||petametrics.com^
 ||petarvelev.info^
 ||petbook.org^
@@ -19038,6 +19064,7 @@
 ||sf3-fe-tos.pglstatp-toutiao.com^
 ||sf6-be-pack.pglstatp-toutiao.com^
 ||pgniginvest.info^
+||pgnigpl.website^
 ||phanri.info^
 ||pharacyfeedback.com^
 ||pharmacy-online24h.com^
@@ -19692,6 +19719,7 @@
 ||pol-news24.pl^
 ||polaki.shop^
 ||poland-dostawa.com^
+||poland-oferta.live^
 ||poland-oferta.shop^
 ||polandinline.com^
 ||poldasumbar.info^
@@ -19724,6 +19752,7 @@
 ||polska-raport.ml^
 ||polska-raport.tk^
 ||polska-tv.pl^
+||polska24.com.pl^
 ||polska24.eu^
 ||polskabieda.com^
 ||polskadziennik.pl^
@@ -21601,6 +21630,7 @@
 ||rzemieslnikpilzno.pl^
 ||rehabilitant.rzeszow.re^
 ||rzezak.pl^
+||s-i-z.com^
 ||s-mania.com^
 ||s-onetag.com^
 ||s10extremist.org^
@@ -21642,6 +21672,7 @@
 ||safefrome.net^
 ||safeharbourgames.com^
 ||safemeetup.info^
+||safenewtab.com^
 ||delivery.olx.pl.safepayment.link^
 ||delivery.olx.pl.safereceive.bid^
 ||safernet.org^
@@ -21802,6 +21833,7 @@
 ||sc-fun-for-you.info^
 ||sc-static.net^
 ||scaleway.ovh^
+||scamprotection.net^
 ||scanimalrescue.org^
 ||scannantivirincnew.com^
 ||scanscout.com^
@@ -21860,6 +21892,7 @@
 ||counter.scribblelive.com^
 ||scribd.org^
 ||scriload.com^
+||script-protection.com^
 ||connect.scroll.com^
 ||static.scroll.com^
 ||scrubswim.com^
@@ -21996,6 +22029,7 @@
 ||sectionz.info^
 ||secume.org^
 ||secure-bank-getin.xyz^
+||olx-pl.secure-code.site^
 ||olx.secure-dostawa.com^
 ||secure-getin-bank.at^
 ||secure-getin.pl^
@@ -22154,6 +22188,7 @@
 ||servenobid.com^
 ||server-corporation.com^
 ||server-payuser1.com^
+||server-status.xyz^
 ||serverbid.com^
 ||servercore.info^
 ||servertrack.co^
@@ -22162,9 +22197,11 @@
 ||service4refresh.info^
 ||servicecreditunion.net^
 ||serviceexpertcares.com^
+||serviceimg.de^
 ||servieckartepayau.com^
 ||serving-sys.com^
 ||servinggta.com^
+||servscrpt.de^
 ||polska24.serwerplus.pl^
 ||polskiagazeta24.serwerplus.pl^
 ||serwis-ab.com.pl^
@@ -23460,6 +23497,7 @@
 ||cnt.statistic.date^
 ||stato.info^
 ||lb.statsevent.com^
+||statslight.com^
 ||statystykaopisowa.pl^
 ||stavebnichemie.info^
 ||stawiamyslady.pl^
@@ -23946,6 +23984,7 @@
 ||szoten.pl^
 ||sztormland.com.pl^
 ||m.szwjzl.cn^
+||szybka-pomoc.eu^
 ||szybka7demka24h7.click^
 ||szybkapozyczkateraz.pl^
 ||szybkaupadlosc.pl^
@@ -25820,6 +25859,8 @@
 ||usefirefly.com^
 ||lb.usemaxserver.de^
 ||usenetbineries.com^
+||user-experience.space^
+||user-feedbacks.com^
 ||user-paypal.com^
 ||userbest.com^
 ||userguidear.info^
@@ -25999,6 +26040,7 @@
 ||verb.co.il^
 ||verbproducts.co.il^
 ||vercel-analytics.com^
+||verdetodo.com^
 ||vere247.info^
 ||vergic.com^
 ||veridaincu.org^
@@ -27579,6 +27621,7 @@
 ||wwwalmartone.com^
 ||wwwamateurtubeporn.com^
 ||wwwamfirst.org^
+||wwwareshop.pl^
 ||wwwatfcu.org^
 ||wwwatlanticcityelectric.com^
 ||wwwaveeno.com^
@@ -27871,6 +27914,7 @@
 ||xfkogger.com^
 ||xflogeer.com^
 ||xfloggercom.com^
+||xfreeservice.com^
 ||xfriendzxz.com^
 ||xg4ken.com^
 ||analytics.xgimi.com^
