@@ -16361,9 +16361,9 @@ vkcdnservice.appspot.com^
 ||trafficshirts.com^
 ||upcum.com^
 ||wallpapersfacts.com^
-/(https?:\/\/)213\.32\.115\..{100,}/
-/(https?:\/\/)217\.182\.11\..{100,}/
-/(https?:\/\/)51\.195\.31\..{100,}/
+/213\.32\.115\..{100,}/
+/217\.182\.11\..{100,}/
+/51\.195\.31\..{100,}/
 ||bootstrap-js.com^
 ||g-statistic.com^
 ||afriflatry.co^
