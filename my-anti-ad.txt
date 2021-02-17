@@ -3938,6 +3938,7 @@ www.llllllllllll.net^
 ||ad.m5prod.net^
 ||ad.madvertise.de^
 ||ad.mail.ru^
+||ad.mail.ru^|
 ||ad.mail.sohu.com^
 ||ad.mangareader.net^
 ||ad.masteranime.es^
@@ -7500,6 +7501,7 @@ www.llllllllllll.net^
 ||adsrv2.wilmingtonstar.com^
 ||adsrv4k.com^
 ||adsrvgateway.com^
+||adsrvmedia.adk2.co^$important
 ||adsrvmedia.com^
 ||adsrvmedia.net^
 ||adsrvr.cn^
@@ -14730,6 +14732,7 @@ www.llllllllllll.net^
 ||besucherzaehler-zugriffszaehler.de^
 ||besucherzahlen.com^
 ||bet.championat.com^
+||bet.championat.com^$important
 ||bet3000partners.com^
 ||bet365affiliates.com^
 ||beta.dashboard.superawesome.tv^
@@ -23102,6 +23105,7 @@ www.llllllllllll.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1n1ppeppre6d4.cloudfront.net^
 ||d1n3tk65esqc4k.cloudfront.net^
+||d1n3tk65esqc4k.cloudfront.net^$important
 ||d1n7ypf85zfej7.cloudfront.net^
 ||d1nh2vjpqpfnin.cloudfront.net^
 ||d1nkvehlw5hmj4.cloudfront.net^
@@ -24585,6 +24589,7 @@ www.llllllllllll.net^
 ||deloo.de^
 ||deloplen.com^
 ||delosnetwork.it^
+||deloton.com$important
 ||deloton.com^
 ||delowski.com^
 ||del-sieradz.neostrada.pl^
@@ -31723,6 +31728,7 @@ www.llllllllllll.net^
 ||fotrento.com^
 ||fotsaulr.net^
 ||fotw.xyz^
+||fotzenparty.eu^$important
 ||fouanalytics.com^
 ||fouas.com^
 ||foucusedfitness.org^
@@ -39500,6 +39506,7 @@ www.llllllllllll.net^
 ||inp0st-aplikacja.com^
 ||inpagepush.com^
 ||in-page-push.com^
+||inpagepush.com^$important
 ||inpagevideo.nl^
 ||inpast.net^
 ||inpcut.com^
@@ -54065,6 +54072,7 @@ www.llllllllllll.net^
 ||ochaugly.net^
 ||ochze.com^
 ||oclaserver.com^
+||oclasrv.com$important
 ||oclasrv.com^
 ||oclus.com^
 ||ocm8.masmovil.es^
@@ -55488,6 +55496,7 @@ www.llllllllllll.net^
 ||onrt-stsdk.vivo.com.cn^
 ||onrt-stsdk.vivoglobal.com^
 ||onsafelink.com^
+||onsafelink.com^$badfilter
 ||onscribedpastrong.info^
 ||onscroll.com^
 ||onsertilyas.club^
@@ -58308,6 +58317,7 @@ www.llllllllllll.net^
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
 ||pixel.4players.de^
+||pixel.4players.de^$important
 ||pixel.ad^
 ||pixel.admobclick.com^
 ||pixel.adssafeprotected.com^
@@ -58382,6 +58392,7 @@ www.llllllllllll.net^
 ||pixel.widgetly.com^
 ||pixel.wp.com^
 ||pixel.wp.pl^
+||pixel.wp.pl^$important
 ||pixel.xmladfeed.com^
 ||pixel.yabidos.com^
 ||pixel.yola.com^
@@ -62550,6 +62561,7 @@ www.llllllllllll.net^
 ||rcblkkhfvrxyn.com^
 ||rcdaf.org^
 ||rcdat.org^
+||rcdn.pro^$badfilter
 ||rce.reamp.com.br^
 ||rceableinte.club^
 ||rcentratiumd.space^
@@ -72619,6 +72631,7 @@ www.llllllllllll.net^
 ||tags.toroadvertising.com^
 ||tags.toyota.com^
 ||tags2.adshell.net^
+||tags2.adshell.net^$badfilter
 ||tags2.mli.me^
 ||tagsadvancenative-glb8iionio2cozc.netdna-ssl.com^
 ||tagsd.com^
@@ -82337,6 +82350,7 @@ www.llllllllllll.net^
 ||wpnjs.com^
 ||wpnrc.com^
 ||wpnrtnmrewunrtok.xyz^
+||wpnrtnmrewunrtok.xyz^$badfilter
 ||wpnsrv.com^
 ||wppgnig.pw^
 ||wp-pl.online^
