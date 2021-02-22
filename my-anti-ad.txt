@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, Spam404, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-22T11:53:53.880Z
+! Last modified: 2021-02-22T12:08:52.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -10139,7 +10139,6 @@ www.llllllllllll.net^
 ||api.cheatsheet.me^
 ||api.cho-ro.club^
 ||api.circularhub.com^
-||api.cloudmobi.net^
 ||api.collect.data.intl.miui.com^
 ||api.connecto.io^
 ||api.cortana.ai^
@@ -15065,7 +15064,6 @@ www.llllllllllll.net^
 ||c.baidu.cn^
 ||c.bayongzx.cn^
 ||c.be.msn.com^
-||c.bigmir.net^
 ||c.bing.com^
 ||c.booksir.com.cn^
 ||c.br.msn.com^
@@ -15985,7 +15983,6 @@ www.llllllllllll.net^
 ||cdn.wuyou.ca^
 ||cdn.xianliao.me^
 ||cdn.yimg.com^
-||cdn.yottos.com^
 ||cdn0.mobmore.com^
 ||cdn1.ad-center.com^
 ||cdn1.adspace.4tube.com^
@@ -19391,7 +19388,6 @@ www.llllllllllll.net^
 ||cryaptall.club^
 ||cryartarm.online^
 ||crylukzsthjz.com^
-||crypta.js^
 ||cryptaloot.pro^
 ||cryptianainv.club^
 ||cryptoads.space^
@@ -21295,7 +21291,6 @@ www.llllllllllll.net^
 ||delivery49.com^
 ||delivery51.com^
 ||delivery-dev.thebloggernetwork.com^
-||deliveryengine.adswizz.com^
 ||deliverymodo.com^
 ||delivery-olx.ml^
 ||delivery-olx-pl.info^
@@ -25211,7 +25206,6 @@ www.llllllllllll.net^
 ||evokeelbowsoil.com^
 ||evokeframingimpossible.com^
 ||evolutionadv.it^
-||evolutionmedia.bbelements.com^
 ||evolvemediallc.com^
 ||evolvenation.com^
 ||evovasalup.com^
@@ -33695,7 +33689,6 @@ www.llllllllllll.net^
 ||img.mobee2.jp^
 ||img.mybet.com^
 ||img.netwrix.com^
-||img.opentracker.net^
 ||img.parked.ru^
 ||img.prohardver.hu^
 ||img.promoddl.com^
@@ -36007,7 +36000,6 @@ www.llllllllllll.net^
 ||js.gdsln.ru^
 ||js.gewuwen.com^
 ||js.gleam.io^
-||js.goods.redtram.com^
 ||js.haoxyx.com^
 ||js.hkslg520.com^
 ||js.hscollectedforms.net^
@@ -49732,7 +49724,6 @@ www.llllllllllll.net^
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
 ||pixel.propublica.org^
-||pixel.quantserve.com^
 ||pixel.reddit.com^
 ||pixel.redditmedia.com^
 ||pixel.roymorgan.com^
@@ -54231,7 +54222,6 @@ www.llllllllllll.net^
 ||rfmdtsiekds.com^
 ||rfr-69.com^
 ||rfv.pl^
-||rg.yottos.com^
 ||rgadvert.com^
 ||rg-be.ru^
 ||rgcblgor.com^
@@ -55860,7 +55850,6 @@ www.llllllllllll.net^
 ||scripsjeermint.com^
 ||script.ag^
 ||script.hqpass.com^
-||script.opentracker.net^
 ||scriptall.ml^
 ||scriptall.tk^
 ||script-bd.baixing.net^
@@ -69945,7 +69934,6 @@ www.llllllllllll.net^
 ||www.hobwelt.com^
 ||www.homeoffun.com^
 ||www.horisunkitchen.com^
-||www.hostingcloud.party^
 ||www.hotdogsandads.com^
 ||www.hotranks.com^
 ||www.huaxinxunye.cn^
