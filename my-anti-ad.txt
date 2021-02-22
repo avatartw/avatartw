@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, Spam404, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-22T12:08:52.316Z
+! Last modified: 2021-02-22T12:57:34.239Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -9142,7 +9142,6 @@ www.llllllllllll.net^
 ||ambitiousagreement.com^
 ||ambra.com^
 ||amcdn.vn^
-||am-concepts.ca^
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
 ||am-display.com^
@@ -13267,7 +13266,6 @@ www.llllllllllll.net^
 ||bh100.com.cn^
 ||bh3.net^
 ||bhaoea.cn^
-||bhavaniengineering.com^
 ||bhcf764sf8pg.com^
 ||bhclicks.com^
 ||bhcumsc.com^
@@ -14341,7 +14339,6 @@ www.llllllllllll.net^
 ||bracalemusic.com^
 ||braccom.ch^
 ||bradamante-per.com^
-||bradleyinstitute.co.za^
 ||brahe.apptimize.com^
 ||braincash.com^
 ||braincf.com^
@@ -16465,6 +16462,7 @@ www.llllllllllll.net^
 ||characteristicsumptuousmister.com^
 ||charactice.club^
 ||charanchedope.info^
+||chardhamdodham.com^
 ||chardsreme.space^
 ||chardwardse.club^
 ||charge-backers.pl^
@@ -18524,6 +18522,7 @@ www.llllllllllll.net^
 ||convertingtraffic.com^
 ||convertro.com^
 ||convertsocial.com^
+||convertsunited.com^
 ||convertwordtoexcel.com^
 ||convrse.media^
 ||conyak.com^
@@ -19388,6 +19387,7 @@ www.llllllllllll.net^
 ||cryaptall.club^
 ||cryartarm.online^
 ||crylukzsthjz.com^
+||crypta.js^
 ||cryptaloot.pro^
 ||cryptianainv.club^
 ||cryptoads.space^
@@ -20756,6 +20756,7 @@ www.llllllllllll.net^
 ||data.haoma.sogou.com^
 ||data.iappmobi.com^
 ||data.imakenews.com^
+||data.kaoyany.top^
 ||data.mgtv.com^
 ||data.minute.ly^
 ||data.mistat.*.xiaomi.com^
@@ -21546,6 +21547,7 @@ www.llllllllllll.net^
 ||dfasxm.biz^
 ||dfb79196408612f1.com^
 ||dfc1.benbaisteel.com^
+||dfcf.91756.cn^
 ||dfcwg.com^
 ||dfdjilnzqgtow.com^
 ||dfebr.com^
@@ -22925,7 +22927,6 @@ www.llllllllllll.net^
 ||drunkenstepfather.com^
 ||drunkersrr.club^
 ||drunt.at^
-||drupal.website2.fr^
 ||drvmy.ats68.cn^
 ||drwkzkncihwygw.com^
 ||drwzn.com^
@@ -31429,7 +31430,6 @@ www.llllllllllll.net^
 ||heavensp.xyz^
 ||heavenwil.top^
 ||heavy-kingbonus.life^
-||heavymaq.cl^
 ||heavyplayground.com^
 ||heawzlvivkakly.com^
 ||hebdotop.com^
@@ -34957,7 +34957,6 @@ www.llllllllllll.net^
 ||isabellstudio.com.pl^
 ||is-apple.com^
 ||iscamenabe.com^
-||iscon.com.br^
 ||iscrv.com^
 ||isdspeed.qq.com^
 ||isee.weishi.qq.com^
@@ -35345,7 +35344,6 @@ www.llllllllllll.net^
 ||jankazimierzsiwek.pl^
 ||jankotlarz.pl^
 ||jannahqu.org^
-||jannathotels.com^
 ||jannatkhah.ir^
 ||janndfsc.pro^
 ||jannews.pro^
@@ -36434,7 +36432,6 @@ www.llllllllllll.net^
 ||kakyomloctqiu.com^
 ||kalaaps.pl^
 ||kalantzis.net^
-||kalawatihomes.com^
 ||kaldar.pl^
 ||kaldma.net^
 ||kalendarzdnia23.online^
@@ -37375,6 +37372,7 @@ www.llllllllllll.net^
 ||kulkarni.bounceme.net^
 ||kulkerbolda.com^
 ||kumanaun.net^
+||kumaralok.in^
 ||kumpulblogger.com^
 ||kumteerg.com^
 ||kungfupan.club^
@@ -46316,6 +46314,7 @@ www.llllllllllll.net^
 ||ohbayersbur.pro^
 ||ohchat.net^
 ||ohcohz.stroeerdp.de^
+||ohe.ie^
 ||ohiomm.com^
 ||ohkdsplu.com^
 ||ohldsplu.com^
@@ -46403,7 +46402,6 @@ www.llllllllllll.net^
 ||okm918.com^
 ||okmgy.cn^
 ||okna-lesnik.pl^
-||oknoplastik.sk^
 ||okokw.com^
 ||okoshechka.net^
 ||ok-outlet.com^
@@ -48032,6 +48030,7 @@ www.llllllllllll.net^
 ||oxcash.com^
 ||ox-d.hbr.org^
 ||ox-d.hulkshare.com^
+||oxeir.com^
 ||oxen.hillcountrytexas.com^
 ||oxidy.com^
 ||oxifwsabgd.nzz.ch^
@@ -51521,6 +51520,7 @@ www.llllllllllll.net^
 ||prostozkraju.dkonto.pl^
 ||prostream.to^
 ||prosumsit.com^
+||prosyarmakassar.com^
 ||prosze.moonfruit.com^
 ||protally.net^
 ||protawe.com^
@@ -55442,6 +55442,7 @@ www.llllllllllll.net^
 ||sailsuit.com^
 ||sailthru.com^
 ||sainstandset.site^
+||saisoftwareinc.com^
 ||saiveewe.net^
 ||sajtiket.ru^
 ||sakura.goguardian.com^
@@ -58738,7 +58739,6 @@ www.llllllllllll.net^
 ||spisek.freehost.pl^
 ||spisradiowy.eu^
 ||spiteaside.com^
-||spititourism.com^
 ||spitter.pauk.ru^
 ||spittsprevi.club^
 ||spixel.socy.es^
@@ -60175,7 +60175,6 @@ www.llllllllllll.net^
 ||strashield.com^
 ||straszna-wiocha.odt.pl^
 ||strategy.lmobi.net^
-||stratexec.co.za^
 ||stratingtrea.club^
 ||strawdense.com^
 ||strawpoii.me^
@@ -60468,7 +60467,6 @@ www.llllllllllll.net^
 ||sunjianlong.com^
 ||sunlight177.wixsite.com^
 ||sunmaker.com^
-||sunmarkholidays.com^
 ||sunmedia.net^
 ||sunmedia.tv^
 ||sunnimiq.cf^
@@ -62250,7 +62248,6 @@ www.llllllllllll.net^
 ||thedataworld.com^
 ||thedatesafe.com^
 ||thedemocraticpost.com^
-||thedesertship.com^
 ||thediscoveryrun.com^
 ||theequalground.info^
 ||theersoa.net^
@@ -65625,7 +65622,6 @@ www.llllllllllll.net^
 ||uniquecaptcha.com^
 ||uniquehack.com^
 ||uniregistry.com^
-||unisoftcc.com^
 ||unisound.cdnvideo.ru^
 ||unitacs.m.taobao.com^
 ||unitdotto.club^
@@ -69719,7 +69715,6 @@ www.llllllllllll.net^
 ||www.cpmfun.com^
 ||www.cqsta.com^
 ||www.crackserver.com^
-||www.craftnesia.id^
 ||www.crazywinnings.com^
 ||www.credit-dreams.com^
 ||www.csalikft.hu^
@@ -69832,6 +69827,7 @@ www.llllllllllll.net^
 ||www.firered.plus.com^
 ||www.fischereszter.hu^
 ||www.fjlqqc.com^
+||www.flaviamardi.com^
 ||www.flexibleadmin.com^
 ||www.flexibletool.com^
 ||www.flowerdevon.idps.co.uk^
@@ -70347,6 +70343,7 @@ www.llllllllllll.net^
 ||www.surveynetworks.com^
 ||www.surveysite.com^
 ||www.talentbroker.net^
+||www.tandenblekenhoofddorp.nl^
 ||www.tanger.com.br^
 ||www.tao123.com^
 ||www.taobaobo5.com^
