@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, Spam404, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-16T05:15:53.181Z
+! Last modified: 2021-03-16T07:14:19.138Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3376,7 +3376,6 @@ www.llllllllllll.net^
 ||acacdn.com^
 ||academand.com^
 ||academy-internet.net^
-||academyshademani.com^
 ||acads.net^
 ||acaiberryextreme.pl^
 ||a-calc.com^
@@ -8710,6 +8709,7 @@ www.llllllllllll.net^
 ||alizedusud.free.fr^
 ||aljassarengineering.com^
 ||aljouzauto.com^
+||alka.institute^
 ||alkadiakurier.com^
 ||alkadiakurier.org^
 ||alkdmsxs.bid^
@@ -9070,7 +9070,6 @@ www.llllllllllll.net^
 ||amountant.club^
 ||amournow.space^
 ||amoxicillin.ourtablets.com^
-||amozesh.esampad.ir^
 ||amp.services^
 ||amparcaim.club^
 ||amp-cdn.rqmob.com^
@@ -10243,7 +10242,6 @@ www.llllllllllll.net^
 ||apologixopyr.site^
 ||apoolcondo.com^
 ||apopgo.com^
-||apostle.mangospot.net^
 ||apostropheemailcompetence.com^
 ||app.3987.com^
 ||app.activetrail.com^
@@ -12255,7 +12253,6 @@ www.llllllllllll.net^
 ||baseny-sklep.com^
 ||basepush.com^
 ||basetts.com^
-||bash.givemexyz.in^
 ||bashenghuo.com^
 ||bashirian.biz^
 ||basiakurier.top^
@@ -13149,7 +13146,6 @@ www.llllllllllll.net^
 ||bh100.com.cn^
 ||bh3.net^
 ||bhaoea.cn^
-||bhavaniengineering.com^
 ||bhcf764sf8pg.com^
 ||bhcumsc.com^
 ||bher64eljhjx.com^
@@ -18229,7 +18225,6 @@ www.llllllllllll.net^
 ||config.appjolt.com^
 ||config.appsgeyser.com^
 ||config.baofeng.net^
-||config.cqhbkjzx.com^
 ||config.getmyip.com^
 ||config.kuyun.com^
 ||config.push.sogou.com^
@@ -19585,7 +19580,6 @@ www.llllllllllll.net^
 ||cube.jpn.com^
 ||cubegaming.net^
 ||cuberoot.co^
-||cubescargoexpress.com^
 ||cubeworlddownload.com^
 ||cubiboak.com^
 ||cubicmedia.net^
@@ -20763,6 +20757,7 @@ www.llllllllllll.net^
 ||dataxpand.com^
 ||dataxu.com^
 ||datazhan.com^
+||datbanhchungtet.com^
 ||datcuoc247.com^
 ||date.and-have.fun^
 ||date2herenow.com^
@@ -21463,6 +21458,7 @@ www.llllllllllll.net^
 ||dexplatform.com^
 ||dexpredict.com^
 ||deyidesign.com^
+||dezcom.com^
 ||dezf3o8j9jdt6.cloudfront.net^
 ||dezfu.com^
 ||df.mmo001.info^
@@ -25439,7 +25435,6 @@ www.llllllllllll.net^
 ||f19.mobi^
 ||f1c.i.biquge5200.com^
 ||f1f60d2ef1a4ed.com^
-||f1sol.com^
 ||f1tbit.com^
 ||f1zd.com^
 ||f2.p0y.com^
@@ -28909,7 +28904,6 @@ www.llllllllllll.net^
 ||geojs.io^
 ||geokomp.com.pl^
 ||geolid.com^
-||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
 ||geoloc.hurriyet.com.tr^
@@ -29804,6 +29798,7 @@ www.llllllllllll.net^
 ||goldenuploading.com^
 ||goldflame.com^
 ||goldgamehacks.com^
+||goldmen.in^
 ||gold-mir.com^
 ||goldoffer.online^
 ||goldoni.co.uk^
@@ -31118,6 +31113,7 @@ www.llllllllllll.net^
 ||hatchord.com^
 ||hatefulrequest.com^
 ||hathor.eztonez.com^
+||hathunterist.ru^
 ||hats.haibao.cn^
 ||hatter-story.info^
 ||hatyailandscape.com^
@@ -41514,7 +41510,6 @@ www.llllllllllll.net^
 ||metaffiliation.com^
 ||metagmae.org^
 ||metalcarpenteriedalfovo.it^
-||metalin-cr.com^
 ||metaliners.ru^
 ||metalroofinggiants.com^
 ||metaltechnics.pl^
@@ -42414,6 +42409,7 @@ www.llllllllllll.net^
 ||mobile.cmtelematics.com^
 ||mobile.events.data.microsoft.com^
 ||mobile.game-insight.com^
+||mobile.illumetechnology.com^
 ||mobile.launchdarkly.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobile-10.com^
@@ -47639,7 +47635,6 @@ www.llllllllllll.net^
 ||oxcash.com^
 ||ox-d.hbr.org^
 ||ox-d.hulkshare.com^
-||oxeir.com^
 ||oxen.hillcountrytexas.com^
 ||oxford-centrum.com.pl^
 ||oxidy.com^
@@ -49316,7 +49311,6 @@ www.llllllllllll.net^
 ||pixel.adssafeprotected.com^
 ||pixel.ampry.com^
 ||pixel.anyclip.com^
-||pixel.archive.*^
 ||pixel.bilinmedia.net^
 ||pixel.blivenyc.com^
 ||pixel.bullion.media^
@@ -49998,7 +49992,6 @@ www.llllllllllll.net^
 ||pokitom.com^
 ||pokkt.com^
 ||pokkt.fuse-ad.com^
-||pokojewewladyslawowie.pl^
 ||pokolorujfb*.glt.pl^
 ||pokoran.com^
 ||pokrutim.ru^
@@ -51157,6 +51150,7 @@ www.llllllllllll.net^
 ||prostozkraju.dkonto.pl^
 ||prostream.to^
 ||prosumsit.com^
+||prosyarmakassar.com^
 ||prosze.moonfruit.com^
 ||protally.net^
 ||protawe.com^
@@ -51886,7 +51880,6 @@ www.llllllllllll.net^
 ||pvc.zol.com.cn^
 ||pvclouds.com^
 ||pvcndecvyb.com^
-||pvcprinting.co.uk^
 ||pvd.to^
 ||pvk.jp^
 ||pvlog.hd.baofeng.com^
@@ -52894,6 +52887,7 @@ www.llllllllllll.net^
 ||rcm.shinobi.jp^
 ||rcm-cn.amazon.cn^
 ||rcmd.pop.ijinshan.com^
+||rcmesilva.charbelsales.com.br^
 ||rcm-images.amazon.com^
 ||rcm-it.amazon.it^
 ||rcm-jp.amazon.co.jp^
@@ -59437,7 +59431,6 @@ www.llllllllllll.net^
 ||staryspichlerz-darlowo.pl^
 ||staryspichrz.pl^
 ||stat*.1internet.tv^
-||stat.*.v-56.com^
 ||stat.10jqka.com.cn^
 ||stat.1688.com^
 ||stat.360safe.com^
@@ -59526,7 +59519,6 @@ www.llllllllllll.net^
 ||stat.teleport.media^
 ||stat.thestartmagazine.com^
 ||stat.tianya.cn^
-||stat.tiara.*^
 ||stat.tildacdn.com^
 ||stat.timedg.com^
 ||stat.ts.cn^
@@ -64033,9 +64025,6 @@ www.llllllllllll.net^
 ||track.thebase.in^
 ||track.themaccleanup.info^
 ||track.thesaurus.com^
-||track.tiara.*^
-||track.tiara.daum.net^
-||track.tiara.kakao.com^
 ||track.tooplay.com^
 ||track.tproger.ru^
 ||track.uc.cn^
@@ -64059,7 +64048,6 @@ www.llllllllllll.net^
 ||track.written.com^
 ||track.yfret.com^
 ||track.youniversalmedia.com^
-||track.zalando.*^
 ||track.zappos.com^
 ||track.zipalerts.com^
 ||track.ziprecruiter.com^
@@ -64207,8 +64195,6 @@ www.llllllllllll.net^
 ||tracki112.com^
 ||trackicollect.ibase.fr^
 ||trackimpression.com^
-||tracking*.euroads.fi^
-||tracking.*.miui.com^
 ||tracking.10e20.com^
 ||tracking.1-a1502-bi.co.uk^
 ||tracking.1-kv015-ap.co.uk^
@@ -64289,10 +64275,8 @@ www.llllllllllll.net^
 ||tracking.ilinkmd.com^
 ||tracking.imagewebdesign.fr^
 ||tracking.immobilienscout24.de^
-||tracking.india.miui.com^
 ||tracking.internetstores.de^
 ||tracking.interweave.com^
-||tracking.intl.miui.com^
 ||tracking.jetpackdigital.com^
 ||tracking.jiffyworld.com^
 ||tracking.joker.com^
@@ -64330,8 +64314,6 @@ www.llllllllllll.net^
 ||tracking.notizie.it^
 ||tracking.oe24.at^
 ||tracking.oerug.com^
-||tracking.olx.*^
-||tracking.olx.com^
 ||tracking.olx-st.com^
 ||tracking.opencandy.com.s3.amazonaws.com^
 ||tracking.orixa-media.com^
@@ -64357,7 +64339,6 @@ www.llllllllllll.net^
 ||tracking.resumecompanion.com^
 ||tracking.retailrocket.net^
 ||tracking.rtl.de^
-||tracking.rus.miui.com^
 ||tracking.s24.com^
 ||tracking.sembox.it^
 ||tracking.sezzle.com^
@@ -64990,7 +64971,6 @@ www.llllllllllll.net^
 ||trofeum-zdobywamy.eu^
 ||trofvid.com^
 ||trofvido.com^
-||troki.com.co^
 ||trombocrack.com^
 ||trompaillames.xyz^
 ||tr-op.datatrics.com^
@@ -67517,7 +67497,6 @@ www.llllllllllll.net^
 ||vinuxhome.com^
 ||viokan.xvhod.ru^
 ||violentthinner.com^
-||violinstop.com^
 ||vioturallis.com^
 ||viowyf.khaiafi.com^
 ||vioxx.1.p2l.info^
@@ -69347,7 +69326,6 @@ www.llllllllllll.net^
 ||wirutalneinformacje.eu^
 ||wisdementive.info^
 ||wisebanc.com^
-||wisecapitalinc.com^
 ||wisepops.com^
 ||wisepush.video.baidu.com^
 ||wiserapps.site^
@@ -69668,7 +69646,6 @@ www.llllllllllll.net^
 ||wo-x.cn^
 ||woymebsi.com^
 ||woyvk.cn^
-||wp.readhere.in^
 ||wp.up118.cn^
 ||wp1login.waw.pl^
 ||w-paczkomaciie.in.net^
@@ -70271,6 +70248,7 @@ www.llllllllllll.net^
 ||www.credit-dreams.com^
 ||www.csalikft.hu^
 ||www.ctaz.com^
+||www.cubescargoexpress.com^
 ||www.cuci.nl^
 ||www.cwa.mx^
 ||www.cyber-ad01.cc^
@@ -70895,6 +70873,7 @@ www.llllllllllll.net^
 ||www.thebigoutdoors.co.uk^
 ||www.the-discount-store.com^
 ||www.theexgirlfriends.com^
+||www.thehighlightinterior.com^
 ||www.thepiratebay.cr^
 ||www.thepiratebay.wtf^
 ||www.thepornsurvey.com^
@@ -71691,6 +71670,7 @@ www.llllllllllll.net^
 ||xiuxiu.mobile.meitudata.com^
 ||xivileroneros.com^
 ||xiweywhnx.com^
+||xixaoclothing.com^
 ||xixianad.com^
 ||xixiashengdian.com^
 ||xixlgtczn.com^
@@ -74167,8 +74147,7 @@ www.llllllllllll.net^
 ||zzyanhushi.com^
 ||zzyonghao.com^
 ||zzz.onion.pet^
-||zzznews.ru^
-@@||0rz.tw^
+||zzznews.ru^@@||0rz.tw^
 @@||17173im.allyes.com^
 @@||5471782.fls.doubleclick.net^|
 @@||a.adwolf.ru^|
