@@ -49569,7 +49569,6 @@ www.llllllllllll.net^
 ||pl.allsports4free.club^
 ||pl.allsports4u.club^
 ||pl.bitcoin*.t*track*.com^
-||pl.bitcoin*.track*.com^
 ||pl.bitcoinmethodpro.com^
 ||pl.bitcoinup-app.co^
 ||pl.cash-pays.live^
