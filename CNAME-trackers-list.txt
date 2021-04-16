@@ -1,7 +1,7 @@
 !
 ! Title: CNAME trackers list
 ! Description: CNAME trackers list.
-! Last modified: 2021-04-15T14:33:32.335Z
+! Last modified: 2021-04-16T00:52:22.709Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12870,6 +12870,12 @@ zmetrics.boston.com
 zuctxwgg.ad-repo.com
 zuctxwgg.ebis.ne.jp
 measure.office.com
+azwancan.trafficmanager.net
+bn2-ris-prod-atm.trafficmanager.net
+compatexchange1.trafficmanager.net
+config-inmobi-com-tm.trafficmanager.net
+tele.trafficmanager.net
+telemetry-sdk-inmobi-com-tm.trafficmanager.net
 100234.advision-adnw.jp
 100602.advision-adnw.jp
 100651.advision-adnw.jp
