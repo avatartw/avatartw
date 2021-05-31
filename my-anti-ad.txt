@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, Spam404, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-31T19:30:23.004Z
+! Last modified: 2021-05-31T22:16:05.705Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28,7 +28,6 @@
 .adv-multithreading.info^
 .allalla.com^
 .anime-free.net^
-.ay.delivery^
 .bobfilm1.co^
 .cpa1.ru^
 .dorgroup.com^
@@ -12419,7 +12418,6 @@ www.llllllllllll.net^
 ||bikeforumsnet.skimlinks.com^
 ||bikesopden.com^
 ||bikesseafoodchewing.com^
-||bil.co.tz^
 ||bilbob.com^
 ||bildirnet.com^
 ||bildirt.com^
@@ -16116,6 +16114,7 @@ www.llllllllllll.net^
 ||cliksolution.com^
 ||climbingdivertshabby.com^
 ||clinexcel.com^
+||clinicasaludmasculina.com^
 ||clink.nifty.com^
 ||cliop.com^
 ||clipbongda.info^
@@ -17002,6 +17001,7 @@ www.llllllllllll.net^
 ||construrack.cl^
 ||consultant-online.ru^
 ||consultantsow.com^
+||consultatyon.com^
 ||consultingeastrubber.com^
 ||consulturias.com^
 ||consumable.com^
@@ -18186,7 +18186,6 @@ www.llllllllllll.net^
 ||ctr-opc.nmg.de^
 ||ctr.hd.sohu.com^
 ||ctr.nmg.de^
-||ctracknxt.in^
 ||ctrck.com^
 ||ctrhub.com^
 ||ctripcorp.com^
@@ -29438,6 +29437,7 @@ www.llllllllllll.net^
 ||htmonster.com^
 ||htmuhftnu.com^
 ||htopensationclie.info^
+||htownbars.com^
 ||htpanel.com^
 ||htracker1.zmzfile.com^
 ||htracker2.zmzfile.com^
@@ -30932,7 +30932,6 @@ www.llllllllllll.net^
 ||injectlocum.com^
 ||injuredcandy.com^
 ||injuredworkersadvocates.com^
-||inkedmicrobladingparlor.com^
 ||inklineglobal.com^
 ||inkoleasing.ru^
 ||inkornesto.com^
@@ -35518,7 +35517,6 @@ www.llllllllllll.net^
 ||luxchecker.pw^
 ||luxins.net^
 ||luxlnk.com^
-||luxominas.com.br^
 ||luxomodels.com^
 ||luxoshopde.com^
 ||luxpolice.com^
@@ -41068,7 +41066,6 @@ www.llllllllllll.net^
 ||okkkk.com^
 ||okm918.com^
 ||okmgy.cn^
-||oknoplastik.sk^
 ||okokw.com^
 ||okoshechka.net^
 ||okrnvztkhkghas.com^
@@ -46405,6 +46402,7 @@ www.llllllllllll.net^
 ||reasulty.com^
 ||reate.info^
 ||reauthenticator.com^
+||rebandas.com^
 ||rebdy.com^
 ||rebel.ai^
 ||rebelsubway.com^
@@ -48233,7 +48231,6 @@ www.llllllllllll.net^
 ||sagent.io^
 ||sagetrc.com^
 ||saguvacu.xyz^
-||sahathaikasetpan.com^
 ||saidialxo.com^
 ||saifudesigner.com^
 ||sail-horizon.com^
@@ -49197,6 +49194,7 @@ www.llllllllllll.net^
 ||septembership.com^
 ||sepyra.com^
 ||sequently.club^
+||sequerella.com^
 ||sequestrassent.xyz^
 ||seraton.online^
 ||serbapromo.com^
@@ -49703,6 +49701,7 @@ www.llllllllllll.net^
 ||shomershabes.com^
 ||shoofle.tv^
 ||shoogloonetwork.com^
+||shooka-co.com^
 ||shooterpillar.com^
 ||shop-cdn.coccoc.com^
 ||shop-rnib.org^
@@ -50945,8 +50944,6 @@ www.llllllllllll.net^
 ||spaf.jp^
 ||spagat.space^
 ||spahelani.com^
-||spainblogmandala.org.za^
-||spainblogmandala.web.za^
 ||spalitemu.ru^
 ||spamanalyst.com^
 ||spammer.ro^
@@ -52199,7 +52196,6 @@ www.llllllllllll.net^
 ||steelhousemedia.com^
 ||steepsquirrel.com^
 ||steepto.com^
-||steilppm.ac.id^
 ||stellargiveaway.info^
 ||stellarium.fr^
 ||stellaservice.com^
