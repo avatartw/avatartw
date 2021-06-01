@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, Spam404, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-31T22:16:05.705Z
+! Last modified: 2021-06-01T04:42:52.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1171,6 +1171,7 @@ www.llllllllllll.net^
 ||365abcd.net^
 ||365bibi.com^
 ||365che.cc^
+||365dmp.com^
 ||365giveaways.com^
 ||365locksmithsminneapolis.com^
 ||365sbaffiliates.com^
@@ -3023,7 +3024,6 @@ www.llllllllllll.net^
 ||accessfreevpn.com^
 ||accessi.it^
 ||accessintel.com^
-||accesslinksgroup.com^
 ||accessorymiddleirresponsible.com^
 ||accessoryoppression.com^
 ||accessport.jp^
@@ -3176,7 +3176,6 @@ www.llllllllllll.net^
 ||activealibi.com^
 ||activeandbanflip.com^
 ||activeconversion.com^
-||activecost.com.au^
 ||activedancer.com^
 ||activefiles.org^
 ||activefollowerz.xyz^
@@ -3184,7 +3183,6 @@ www.llllllllllll.net^
 ||activehosted.com^
 ||activeideas.net^
 ||activemeter.com^
-||activepage.ru^
 ||activepr.info^
 ||activepr.ru^
 ||activeprospects.com^
@@ -7983,6 +7981,7 @@ www.llllllllllll.net^
 ||aksb-a.akamaihd.net^
 ||aksessuarov.ru^
 ||aksharenterprise.com^
+||akshayachennai.org^
 ||aksonural.ru^
 ||akstat.com^
 ||akstat.io.edgekey.net^
@@ -11508,6 +11507,7 @@ www.llllllllllll.net^
 ||bayin-group.com^
 ||bayirksrap.com^
 ||baylnk.com^
+||baymisalmart.com^
 ||baynote.net^
 ||bayonetbikes.com^
 ||baypirateproxy.org^
@@ -11938,6 +11938,7 @@ www.llllllllllll.net^
 ||benchemail.bmetrack.com^
 ||benchit.com^
 ||benchtag2.co^
+||bene-exclusive.com^
 ||beneathdangerously.com^
 ||beneficialbeef.com^
 ||benefits.sovendus.com^
@@ -14561,7 +14562,6 @@ www.llllllllllll.net^
 ||ccies.cn^
 ||ccjxybj.cn^
 ||cckgate.com^
-||ccleaner-download.org^
 ||ccleaner.fr^
 ||ccmdgg.com^
 ||ccmp.eu^
@@ -16994,7 +16994,6 @@ www.llllllllllll.net^
 ||constintptr.com^
 ||constituteshy.com^
 ||constrongyfe.site^
-||construexpress.com^
 ||construfuturo.com.mx^
 ||construmac.com.mx^
 ||construment.com^
@@ -17697,6 +17696,7 @@ www.llllllllllll.net^
 ||cpmstar.com^
 ||cpmterra.com^
 ||cpmtree.com^
+||cpng.lol^
 ||cppgf.com^
 ||cprekl.com^
 ||cpro.baidu.com^
@@ -18186,6 +18186,7 @@ www.llllllllllll.net^
 ||ctr-opc.nmg.de^
 ||ctr.hd.sohu.com^
 ||ctr.nmg.de^
+||ctracknxt.in^
 ||ctrck.com^
 ||ctrhub.com^
 ||ctripcorp.com^
@@ -19559,7 +19560,6 @@ www.llllllllllll.net^
 ||decordingaudied.site^
 ||decoroustitle.com^
 ||decorseteront.xyz^
-||decosa.co.hu^
 ||decouvre.la^
 ||decoycreation.com^
 ||dedao.igetget.com^
@@ -20042,6 +20042,7 @@ www.llllllllllll.net^
 ||digitaladvisor.dk^
 ||digitalbees.it^
 ||digitaldesire.com^
+||digitaldoodlemarketing.in^
 ||digitaldsp.com^
 ||digitalgamecheats.com^
 ||digitalkites.com^
@@ -20982,7 +20983,6 @@ www.llllllllllll.net^
 ||drakorindo.club^
 ||dramatical.online^
 ||dramaticcondition.com^
-||draniruddhaghosh.co.in^
 ||drasticdifferentfoetus.com^
 ||draulinehandon.info^
 ||drawbacksubdue.com^
@@ -21479,7 +21479,6 @@ www.llllllllllll.net^
 ||e.stat.ykimg.com^
 ||e.tapdb.net^
 ||e.thanksearch.com^
-||e.tool007.cn^
 ||e.uwmoghx.cn^
 ||e.v02u9.cn^
 ||e.vaxyz.com^
@@ -21589,7 +21588,6 @@ www.llllllllllll.net^
 ||easiesttangle.com^
 ||easou.com^
 ||easternpush.xyz^
-||easternstarusa.com^
 ||easy-ads.com^
 ||easy-bars.com^
 ||easy-case.com^
@@ -23680,6 +23678,7 @@ www.llllllllllll.net^
 ||fc.vodafone.de^
 ||fc.webmasterpro.de^
 ||fc.yahoo.com^
+||fc216035b8c159983a85a7c1e-15280.sites.k-hosting.co.uk^
 ||fc2b9b7ce3165.com^
 ||fc3tn.baidu.com^
 ||fc5tn.baidu.com^
@@ -27587,6 +27586,7 @@ www.llllllllllll.net^
 ||gtradersoft.com^
 ||gtrk.s3.amazonaws.com^
 ||gts-ads.twistbox.com^
+||gts-egy.com^
 ||gtsads.com^
 ||gtsdk.batmobi.net^
 ||gu-pix.appspot.com^
@@ -28675,6 +28675,7 @@ www.llllllllllll.net^
 ||hilltopads.net^
 ||hilltopgo.com^
 ||himalayaninntreks.com^
+||himalyan.org.in^
 ||himediads.com^
 ||himediadx.com^
 ||himekingrow.com^
@@ -29296,6 +29297,7 @@ www.llllllllllll.net^
 ||houseencircledisguised.com^
 ||housejomadkc.com^
 ||housekeeperjavelin.com^
+||houseluxury-re.ch^
 ||housemovieonline.com^
 ||houseoffunfreecoins.xyz^
 ||houseofhacks.info^
@@ -29570,6 +29572,7 @@ www.llllllllllll.net^
 ||hunkal.com^
 ||hunshop.natureflower.com^
 ||hunt-leads.com^
+||huntercapital.co.uk^
 ||hunterdelivery.com^
 ||huntmad.com^
 ||huodong.mobilem.360.cn^
@@ -30724,6 +30727,7 @@ www.llllllllllll.net^
 ||inactionvocationpaternity.com^
 ||inactionwaiting.com^
 ||inad.com^
+||inads.org^
 ||inaffiliago.it^
 ||inaftracker.com^
 ||inarchang.site^
@@ -30932,6 +30936,7 @@ www.llllllllllll.net^
 ||injectlocum.com^
 ||injuredcandy.com^
 ||injuredworkersadvocates.com^
+||inkedmicrobladingparlor.com^
 ||inklineglobal.com^
 ||inkoleasing.ru^
 ||inkornesto.com^
@@ -30994,6 +30999,7 @@ www.llllllllllll.net^
 ||inrool.com^
 ||ins-services.meltwater.com^
 ||insanestudiedrick.com^
+||insaniyatkiawaz.in^
 ||inscriptionothernarcotic.com^
 ||insectadvertisesecretly.com^
 ||insectdatabasesignificantly.com^
@@ -32781,7 +32787,6 @@ www.llllllllllll.net^
 ||kaiu-marketing.com^
 ||kaixinjiehun.com^
 ||kaiyiluye.com^
-||kaizenjanitorial.com^
 ||kaizenplatform.net^
 ||kaizentraffic.com^
 ||kak-bit-new.ru^
@@ -33970,7 +33975,6 @@ www.llllllllllll.net^
 ||leadsleader.ru^
 ||leadsleap.com^
 ||leadsmonitor.io^
-||leadsmonthly.com^
 ||leadsrx.com^
 ||leadtopays.com^
 ||leadtracking.plumvoice.com^
@@ -35517,6 +35521,7 @@ www.llllllllllll.net^
 ||luxchecker.pw^
 ||luxins.net^
 ||luxlnk.com^
+||luxominas.com.br^
 ||luxomodels.com^
 ||luxoshopde.com^
 ||luxpolice.com^
@@ -35792,6 +35797,7 @@ www.llllllllllll.net^
 ||m.siwmc.cn^
 ||m.sjzhushou.com^
 ||m.snay.top^
+||m.softsharks.com^
 ||m.symab.cn^
 ||m.tdiea.com^
 ||m.tixing51.net^
@@ -36477,6 +36483,7 @@ www.llllllllllll.net^
 ||maximgushyoga.com^
 ||maximiser.net^
 ||maximumcash.com^
+||maxiquim.cl^
 ||maxmusics.com^
 ||maxonclick.com^
 ||maxpark.com^
@@ -36553,6 +36560,7 @@ www.llllllllllll.net^
 ||mbsolutions.ge^
 ||mbsy.co^
 ||mbww.com^
+||mbx.com.au^
 ||mbxt.net^
 ||mbzl-pro.xyz^
 ||mc.admetrica.ru^
@@ -37241,6 +37249,7 @@ www.llllllllllll.net^
 ||metro114.com^
 ||metroaverage.com^
 ||metronomisais.xyz^
+||mettaanand.org^
 ||mettelindberg.dk^
 ||meuoculosnanet.com.br^
 ||mevents.trusteer.com^
@@ -37727,7 +37736,6 @@ www.llllllllllll.net^
 ||mlweb.dmlab.hu^
 ||mm-cgnews.com^
 ||mm-syringe.com^
-||mm.365dmp.com^
 ||mm.anqu.com^
 ||mm.awrsx.cn^
 ||mm.jbzj.com^
@@ -41066,6 +41074,7 @@ www.llllllllllll.net^
 ||okkkk.com^
 ||okm918.com^
 ||okmgy.cn^
+||oknoplastik.sk^
 ||okokw.com^
 ||okoshechka.net^
 ||okrnvztkhkghas.com^
@@ -42388,7 +42397,6 @@ www.llllllllllll.net^
 ||paripartner.com^
 ||paripartners.online^
 ||paripartners.ru^
-||parisgallery.com.my^
 ||parisianmacao.bet^
 ||park.parkingpanel.com^
 ||park.realadev.ru^
@@ -42464,6 +42472,7 @@ www.llllllllllll.net^
 ||partners.betbooaffiliates.com^
 ||partners.betus.com^
 ||partners.fanduel.com^
+||partners.hostgator.com^
 ||partners.mysavings.com^
 ||partners.parimatch.net^
 ||partners.priceline.com^
@@ -46156,6 +46165,7 @@ www.llllllllllll.net^
 ||rasahack.com^
 ||rasclassignn.info^
 ||rasegamble.com^
+||rashaflowerbh.com^
 ||rashika.ascarvalho.co.za^
 ||rasius.pro^
 ||rasmas.inmar.com^
@@ -46243,6 +46253,7 @@ www.llllllllllll.net^
 ||rcm.amazon.com^
 ||rcm.shinobi.jp^
 ||rcmd.pop.ijinshan.com^
+||rcmesilva.charbelsales.com.br^
 ||rcn.asapp.com^
 ||rcounter.rambler.ru^
 ||rcsadv.it^
@@ -48231,6 +48242,7 @@ www.llllllllllll.net^
 ||sagent.io^
 ||sagetrc.com^
 ||saguvacu.xyz^
+||sahathaikasetpan.com^
 ||saidialxo.com^
 ||saifudesigner.com^
 ||sail-horizon.com^
@@ -49973,6 +49985,7 @@ www.llllllllllll.net^
 ||sinceresubstance.com^
 ||sincetrade.com^
 ||sindicato1ucm.cl^
+||sindpol.tiejuris.com.br^
 ||sinera.org^
 ||singkegshome.com^
 ||single-online.petrovka.info^
@@ -58567,7 +58580,6 @@ www.llllllllllll.net^
 ||vivarrq324.mama92901.com^
 ||vivationdesign.com^
 ||vivdq.com^
-||viveirodoiscorregos.com.br^
 ||vivi987.com^
 ||vividdefinedspiral.com^
 ||vividlobster.com^
@@ -58825,6 +58837,7 @@ www.llllllllllll.net^
 ||vskqupvddkko.com^
 ||vsmokhklbw.com^
 ||vsnoon.com^
+||vssl-on.com^
 ||vstat.my.tv.sohu.com^
 ||vstat.v.blog.sohu.com^
 ||vstats.co^
@@ -59961,6 +59974,7 @@ www.llllllllllll.net^
 ||winlinebet.ru^
 ||winmonero.club^
 ||winneradsmedia.com^
+||winnercircle.it^
 ||winning-coupon-theday-congrats.cyou^
 ||winnye.com^
 ||winpbn.com^
@@ -63526,6 +63540,7 @@ www.llllllllllll.net^
 ||zeroredirect8.com^
 ||zesdmn.com^
 ||zesep.com^
+||zestcreative.in^
 ||zetadeo.com^
 ||zetamm.com^
 ||zeti.com^
