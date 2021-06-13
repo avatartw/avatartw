@@ -1,10 +1,12 @@
 !
 ! Title: My DNS filter
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, Spam404, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Homepage: https|github.com/AdguardTeam/AdguardSDNSFilter
-! License: https|github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-13T17:24:26.987Z
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
+! Last modified: 2021-06-13T17:33:44.225Z
+!
 ! Compiled by @adguard/hostlist-compiler v1.0.12
+!
 |jhf.ru^
 |kma.biz^
 |mine.torrent.pw^
@@ -9366,7 +9368,6 @@ www.llllllllllll.net^
 ||api.cdnbye.com^
 ||api.cheatsheet.me^
 ||api.circularhub.com^
-||api.cloudmobi.net^
 ||api.collect.data.intl.miui.com^
 ||api.connecto.io^
 ||api.cortana.ai^
@@ -13831,7 +13832,6 @@ www.llllllllllll.net^
 ||c.bannerflow.net^
 ||c.bayongzx.cn^
 ||c.be.msn.com^
-||c.bigmir.net^
 ||c.bing.com^
 ||c.booksir.com.cn^
 ||c.br.msn.com^
@@ -14713,7 +14713,6 @@ www.llllllllllll.net^
 ||cdn.wuyou.ca^
 ||cdn.xianliao.me^
 ||cdn.yimg.com^
-||cdn.yottos.com^
 ||cdn0.mobmore.com^
 ||cdn1.ad-center.com^
 ||cdn1.adspace.4tube.com^
@@ -19603,7 +19602,6 @@ www.llllllllllll.net^
 ||delivery47.com^
 ||delivery49.com^
 ||delivery51.com^
-||deliveryengine.adswizz.com^
 ||deliverymodo.com^
 ||dellswhinyrank.com^
 ||delnapb.com^
@@ -22931,7 +22929,6 @@ www.llllllllllll.net^
 ||evokeframingimpossible.com^
 ||evokeseverextremity.com^
 ||evolutionadv.it^
-||evolutionmedia.bbelements.com^
 ||evolvemediallc.com^
 ||evolvenation.com^
 ||evovasalup.com^
@@ -30392,7 +30389,6 @@ www.llllllllllll.net^
 ||img.libdd.com^
 ||img.mybet.com^
 ||img.netwrix.com^
-||img.opentracker.net^
 ||img.parked.ru^
 ||img.prohardver.hu^
 ||img.promoddl.com^
@@ -32323,7 +32319,6 @@ www.llllllllllll.net^
 ||js.ftp0118.info^
 ||js.gdsln.ru^
 ||js.gewuwen.com^
-||js.goods.redtram.com^
 ||js.haoxyx.com^
 ||js.hkslg520.com^
 ||js.hscollectedforms.net^
@@ -40147,7 +40142,6 @@ www.llllllllllll.net^
 ||now-instahookups2.com^
 ||now-movie.com^
 ||now-profit-here2.life^
-||now.eloqua.com^
 ||now09.ru^
 ||now73.ru^
 ||nowadaysluciusfilch.com^
@@ -43273,7 +43267,6 @@ www.llllllllllll.net^
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
 ||pixel.propublica.org^
-||pixel.quantserve.com^
 ||pixel.reddit.com^
 ||pixel.redditmedia.com^
 ||pixel.roymorgan.com^
@@ -46987,7 +46980,6 @@ www.llllllllllll.net^
 ||rfksrv.com^
 ||rfr-69.com^
 ||rg-be.ru^
-||rg.yottos.com^
 ||rgadvert.com^
 ||rgdhct.cn^
 ||rgdhiucvbtkpou.com^
@@ -48447,7 +48439,6 @@ www.llllllllllll.net^
 ||scripsjeermint.com^
 ||script-bd.baixing.net^
 ||script.ag^
-||script.opentracker.net^
 ||scriptall.ml^
 ||scriptall.tk^
 ||scriptcc.cc^
@@ -52946,7 +52937,6 @@ www.llllllllllll.net^
 ||t.dgm-au.com^
 ||t.dtscdn.com^
 ||t.eharmony.com^
-||t.eloqua.com^
 ||t.en25.com^
 ||t.etraveli.com^
 ||t.fatcatstar.com^
@@ -60832,7 +60822,6 @@ www.llllllllllll.net^
 ||www.hndiyikj.com^
 ||www.hobwelt.com^
 ||www.homeoffun.com^
-||www.hostingcloud.party^
 ||www.hotdogsandads.com^
 ||www.hotel-montfebe.com^
 ||www.hotranks.com^
