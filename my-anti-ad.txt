@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, Spam404, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-26T06:28:21.434Z
+! Last modified: 2021-06-26T06:45:14.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3789,7 +3789,6 @@ www.llllllllllll.net^
 ||adaptiveads.com^
 ||adaptivecss.org^
 ||adaranth.com^
-||adasad.myweb.hinet.net^
 ||adash-c.m.taobao.com^
 ||adash-c.ut.taobao.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
@@ -12406,8 +12405,6 @@ www.llllllllllll.net^
 ||blog.takbelit.com^
 ||blog.with2.net^
 ||blog104.com^
-||blogad01.myweb.hinet.net^
-||blogad02.myweb.hinet.net^
 ||blogads*.blogspot.com^
 ||blogads.com^
 ||blogads.de^
@@ -28050,7 +28047,6 @@ www.llllllllllll.net^
 ||hi2.totolook.com^
 ||hi760.com^
 ||hiaaheddgjdfgabiafc.ru^
-||hiad.myweb.hinet.net^
 ||hiad.vmall.com^
 ||hiadone.com^
 ||hiasor.com^
@@ -38225,6 +38221,7 @@ www.llllllllllll.net^
 ||myvisualiq.net^
 ||myvoicenation.com^
 ||myvpn.pro^
+||myweb.hinet.net^
 ||mywebsearch.com^
 ||mywebstats.com.au^
 ||mywebstats.org^
