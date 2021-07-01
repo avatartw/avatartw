@@ -1,0 +1,21 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+# Date: 28 June 2021 21:17:41 (台北標準時間)
+# Number of unique domains: 53,363
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+# ===============================================================
+# Custom host records are listed here.
+# End of custom host records.
+0.0.0.0 n2019cov.000webhostapp.com
+0.0.0.0 webmail-who-int.000webhostapp.com
+0.0.0.0 010sec.com
+0.0.0.0 01mspmd5yalky8.com
+0.0.0.0 0byv9mgbn0.com
+0.0.0.0 ns6.0pendns.org
+0.0.0.0 dns.0pengl.com
+0.0.0.0 12724.xyz
+0.0.0.0 21736.xyz
