@@ -1,7 +1,7 @@
 !
 ! Title: CNAME trackers list
 ! Description: CNAME trackers list.
-! Last modified: 2021-07-16T16:22:33.866Z
+! Last modified: 2021-07-16T16:36:56.369Z
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 amonas.kankaanpaanseutu.fi
 amonas.rannikkoseutu.fi
@@ -36187,6 +36187,7 @@ adebis.demae-can.com
 adebis.kose.co.jp
 ebis.bulk.co.jp
 qxhydkz8.hmjdaw.ntt.com
+dev.speakol.com
 fp.measure.office.com
 d1bl11pgu3tw3h.cloudfront.net
 alissl.ucdl.pp.uc.cn
@@ -39439,4 +39440,3 @@ pstorage.speakol.com
 api.speakol.com
 analytics.speakol.com
 alert.speakol.com
-dev.speakol.com
