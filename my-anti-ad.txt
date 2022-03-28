@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-28T18:13:21.049Z
+! Last modified: 2022-03-28T18:25:59.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11792,6 +11792,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zencu.com.cn^
 ||ziig.com.cn^
 ||zlx.com.br^
+||zonasertaneja.com.br^
 ||beldiplomcom.75.com1.ru^
 ||push.com2us.net^
 ||tr.reco.combz.jp^
@@ -12774,6 +12775,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||asq.d6shiiwz.pw^
 ||www.d77777777.com^
 ||m.d8qu.com^
+||p2.d9media.cn^
 ||www.da-ads.com^
 ||l.da-te.jp^
 ||counter.daara.kr^
@@ -15647,7 +15649,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ysm.ezprice.net^
 ||ludo.ezyro.com^
 ||g.f11w.com^
-||www.f1cheats.org^
 ||www.f1tbit.com^
 ||c.f1zd.com^
 ||c1313.f28014.cn^
@@ -15719,6 +15720,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pic.fastapi.net^
 ||s.fastapi.net^
 ||sf01.fastapi.net^
+||files.fastbestapp.com^
 ||cdn.fastclick.net^
 ||code.fastclick.net^
 ||csp.fastclick.net^
@@ -21698,7 +21700,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||img.layer-ads.de^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
-||dacentec2.layeredserver.com^
 ||cc.lbesec.com^
 ||cdn1.lbesec.com^
 ||aff-policy.lbesecapi.com^
@@ -30945,6 +30946,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||popup.softreklam.com^
 ||reklam.softreklam.com^
 ||aimeos.softuvo.xyz^
+||softuvo.softuvo.xyz^
 ||soomaal.softuvo.xyz^
 ||track.software-codes.com^
 ||amare.softwaregarden.com^
@@ -33957,6 +33959,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad5.udn.com^
 ||rec.udn.com^
 ||look.udncoeln.com^
+||get.udontsay.xyz^
 ||hit-counter.udub.com^
 ||ue.ueadlian.com^
 ||1.ufc123.com^
@@ -36347,6 +36350,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stat.xywy.com^
 ||stat-y.xywy.com^
 ||stat-z.xywy.com^
+||j.xyzgamej.com^
 ||www.xyztraffic.com^
 ||un.xz6.com^
 ||js.xz6d.com^
@@ -40824,6 +40828,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||akama.com^
 ||akanoo.com^
 ||akariyer.com^
+||akashbariholidays.com^
 ||akashdayalgroups.com^
 ||akavita.com^
 ||akdjnwil.com^
@@ -41525,6 +41530,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||arecio.work^
 ||arefqpiqfjsooi.com^
 ||aresboot.xyz^
+||areyoulivingwell.com^
 ||arfanbajt.xyz^
 ||argeersarchfoe.com^
 ||arguerepetition.com^
@@ -51932,6 +51938,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||indisancal.com^
 ||individuad.net^
 ||indoleads.com^
+||indonesias.me^
 ||indpolice.com^
 ||indrasbikaner.com^
 ||induis.com^
@@ -52548,6 +52555,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jdgcjx.cn^
 ||jdgsgl.com^
 ||jdiaveu.cn^
+||jdkems.com^
 ||jdlhg.com^
 ||jdoqocy.com^
 ||jdownloader.fr^
@@ -55491,6 +55499,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metanetwork.com^
 ||metartmoney.com^
 ||metavertising.com^
+||metawarspace.com^
 ||meteon.org^
 ||meteorsolutions.com^
 ||methidpossum.com^
@@ -55564,7 +55573,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||micakidaugust.com^
 ||micghiga2n7ahjnnsar0fbor.com^
 ||michael31lin.com^
-||michaelstefensson.com^
 ||michealmoyite.com^
 ||mickeysdim.com^
 ||mickknauff.de^
@@ -59296,6 +59304,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||proko.cn^
 ||prolapseman.com^
 ||promarker.club^
+||promas.com^
 ||promclickapp.biz^
 ||promo-bc.com^
 ||promobenef.com^
@@ -61026,6 +61035,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||royaljapan02.*^
 ||royaljapan02.org^
 ||royalmaii.co^
+||royalyo.com^
 ||royapp.com^
 ||rozamimo9za10.com^
 ||rozivpxtl.com^
@@ -66846,6 +66856,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||westerntaneyfire.com^
 ||wetips.cn^
 ||wetrack.it^
+||wetuspost.xyz^
 ||wewillrocknow.com^
 ||wewon.to^
 ||wexevoom.net^
