@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-10-31T19:37:47.196Z
+! Last modified: 2022-10-31T19:46:45.146Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.14
 !
@@ -12548,7 +12548,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nlink.com.br^
 ||nobilissolicitors.com.ng^
 ||novavista.com.py^
-||nrc-soluciones.com.ar^
 ||nrsolarmt.com.br^
 ||nuca.com.au^
 ||nuffnang.com.cn^
@@ -24207,7 +24206,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||users.maxcluster.net^
 ||hda.maxli.cn^
 ||device.maxmind.com^
-||www.maxmoney.com^
 ||www.maxonclick.com^
 ||ifa.maxpornlive.com^
 ||www.maxregistrycleaner.com^
