@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-10-31T17:21:25.276Z
+! Last modified: 2022-10-31T19:37:47.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.14
 !
@@ -10932,7 +10932,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||af-ad.co.uk^
 ||afform.co.uk^
 ||afromerchants.co.zw^
-||agemn.co.za^
 ||airacapital.co.th^
 ||airtecsecurity.co.zw^
 ||akhatech.co.za^
@@ -10987,7 +10986,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||crickclothing.co.za^
 ||decorex.co.in^
 ||dentaire.co.in^
-||destinymc.co.za^
 ||detikbanua.co.id^
 ||dhauzja511.co.cc^
 ||dianomioffers.co.uk^
@@ -11054,6 +11052,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hotelkingdom.co.tz^
 ||i-mobile.co.jp^
 ||iesnare.co.uk^
+||imbueautoworx.co.za^
 ||impresario.co.in^
 ||impressionz.co.uk^
 ||indah.co.id^
@@ -11103,6 +11102,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lumatag.co.uk^
 ||lutanedukasi.co.id^
 ||m-99.co.uk^
+||madicon.co.za^
 ||mahindra.co.ke^
 ||makeyourhome.co.in^
 ||mandtco.co.uk^
@@ -11784,6 +11784,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api-analytics.rozetka.com.ua^
 ||api.rubic.com.tr^
 ||is.sabah.com.tr^
+||e-commerce.saleensuporte.com.br^
 ||tracking.engineering.cloud.seek.com.au^
 ||discover-metrics.cloud.seek.com.au^
 ||adfs.senacrs.com.br^
@@ -12673,6 +12674,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||site-submit.com.ua^
 ||sitedoafiliado.com.br^
 ||skucontrol.com.pe^
+||smartauto.com.np^
 ||smonitor.com.br^
 ||smstext247.com.ng^
 ||sociedadcooperativa.com.mx^
@@ -13291,7 +13293,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||www.credit-dreams.com^
 ||login.creditals-email.space^
 ||tags.creditkarma.com^
-||online.creedglobal.in^
 ||clickstream.cresendo.net^
 ||analytics.liveact.cri-mw.jp^
 ||tag.cribnotes.jp^
@@ -33195,7 +33196,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adx.starbanner.com^
 ||sdk.starbolt.io^
 ||oascentral.starbulletin.com^
-||www.starcountry.net^
 ||ads.stardoll.com^
 ||appsupport.stargame.com^
 ||att.stargame.com^
@@ -57793,6 +57793,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kzerr.com^
 ||kzett.com^
 ||kzhtgnv.cn^
+||kzsfip3v.cfd^
 ||kzsha.com^
 ||kzzs.shop^
 ||l-histoire.fr^
@@ -57967,7 +57968,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lasmemelasdelarana.mx^
 ||lassampy.com^
 ||lasticalsdeb.xyz^
-||lastimaners.ug^
 ||lataurir.com^
 ||latcoy.com^
 ||latheendsmoo.com^
@@ -59016,7 +59016,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||luminae.fr^
 ||luminate.com^
 ||luminosoocchio.com^
-||luminouspneuma.com^
 ||lumitos.com^
 ||lumpylumber.com^
 ||lumupu.xyz^
@@ -63327,7 +63326,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||perfdrive.com^
 ||perfect999.site^
 ||perfectaudience.com^
-||perfectgoc.com^
 ||perfectguard.hu^
 ||perfectmarket.com^
 ||perfectprizes.net^
@@ -65071,7 +65069,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qshxc.com^
 ||qsixi.com^
 ||qskj.club^
-||qsmart.cl^
 ||qsmdeyz.cn^
 ||qsnignsy.xyz^
 ||qsnoownmy.fun^
@@ -66495,6 +66492,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rxjfsewuypfcco.com^
 ||rxlidz.ink^
 ||rxmydyd.cn^
+||rxquickpay.com^
 ||rxthdr.com^
 ||rxuwtiv.cn^
 ||rxwan.com^
