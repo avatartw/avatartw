@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-10-31T19:46:45.146Z
+! Last modified: 2022-10-31T19:55:03.145Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.14
 !
@@ -11036,7 +11036,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||future-price.co.uk^
 ||gatorleads.co.uk^
 ||getsafetytraining.co.za^
-||gifttechandprojects.co.za^
 ||globel.co.uk^
 ||glossom.co.jp^
 ||godwinattorneys.co.tz^
@@ -45963,6 +45962,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bruperchrophone.com^
 ||brushdaughter.com^
 ||brutalconfer.com^
+||brwproperty.com^
 ||brxfinance.com^
 ||brydhoye.com^
 ||brysogsiv.uno^
@@ -57966,6 +57966,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lasmemelasdelarana.mx^
 ||lassampy.com^
 ||lasticalsdeb.xyz^
+||lastimaners.ug^
 ||lataurir.com^
 ||latcoy.com^
 ||latheendsmoo.com^
@@ -59014,6 +59015,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||luminae.fr^
 ||luminate.com^
 ||luminosoocchio.com^
+||luminouspneuma.com^
 ||lumitos.com^
 ||lumpylumber.com^
 ||lumupu.xyz^
@@ -60192,6 +60194,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||misterson.com^
 ||misticview.ru^
 ||mistikvideo.ru^
+||mistitis.ug^
 ||mistletoeethicleak.com^
 ||mistydeblasiophotography.com^
 ||mitenampa.com^
@@ -72246,7 +72249,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vintariusdorianltd.com^
 ||vinub.com^
 ||vinuxhome.com^
-||vinyemanoelpro.com^
 ||violates.wang^
 ||vip-dates-herenow3.com^
 ||vip-l53.work^
@@ -74384,7 +74386,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xzyituo.com^
 ||y-track.com^
 ||y0urf1rstd0wnl0ad.com^
-||y1electronics.in^
 ||y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com^
 ||y7jq.cn^
 ||y7o9rh.cn^
