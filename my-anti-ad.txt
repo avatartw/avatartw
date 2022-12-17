@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-17T04:51:41.877Z
+! Last modified: 2022-12-17T06:29:37.678Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.14
 !
@@ -13,151 +13,7 @@
 /[a-z]{3}gov\.(com|tv|me|top)/
 /butie\S+\.(shop|xyz)/
 /tw\S{2}gov\.com/
-samsung-com.112.2o7.net
-clck.adskeeper.com
-cm.adskeeper.com
-jsc.adskeeper.com
-onecollector.cloudapp.aria.akadns.net
-prod.nexusrules.live.com.akadns.net
-vortex.data.microsoft.com.akadns.net
-advertising-api-eu.amazon.com
-affiliationjs.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-books-analytics-events.news.apple-dns.net
-stocks-analytics-events.news.apple-dns.net
-books-analytics-events.apple.com
-metrics.apple.com
-securemetrics.apple.com
-stocks-analytics-events.apple.com
-supportmetrics.apple.com
-vip.aqd103.xyz
-vip.aqdmv181.com
-gvod.aiseejapp.atianqi.com
-e.av924.com
-telemetry.appex.bing.net
-api.bugsnag.com
-app.bugsnag.com
 -spiky.clevertap-prod.com^
-cnnic.cn
-cnnic.net
-www.cnnic.cn
-member.coocaa.com
-passport.coocaa.com
-pay.coocaa.com
-hoisin.coocaatv.com
-res.hoisin.coocaatv.com
-api.hoisin.hw.coocaatv.com
-adclick.g.doubleclick.net
-mediavisor.doubleclick.net
-ads.facebook.com
-app.getsentry.com
-gmad1.xyz
-ads.google.com
-metrics.data.hicloud.com
-metrics1.data.hicloud.com
-metrics2.data.hicloud.com
-metrics3.data.hicloud.com
-metrics4.data.hicloud.com
-metrics5.data.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
-hotjar.com
-metrics.icloud.com
-kirsche9.live
-config.kuyun.com
-logonext.tv.kuyun.com
-www.kuyunzy.co
-adv.lihkg.com
-watson.live.com
-cdn.luckyorange.com
-w1.luckyorange.com
-choice.microsoft.com
-settings-sandbox.data.microsoft.com
-settings-win.data.microsoft.com
-vortex.data.microsoft.com
-vortex-sandbox.data.microsoft.com
-vortex-win.data.microsoft.com
-redir.metaservices.microsoft.com
-feedback.search.microsoft.com
-i1.services.social.microsoft.com
-spynet2.microsoft.com
-spynetalt.microsoft.com
-corp.sts.microsoft.com
-diagnostics.support.microsoft.com
-telemetry.microsoft.com
-telemetry.urs.microsoft.com
-watson.microsoft.com
-tracking.india.miui.com
-sa.api.intl.miui.com
-tracking.intl.miui.com
-tracking.rus.miui.com
-tracking.miui.com
-mouseflow.com
-dzc-metrics.mzstatic.com
-metrics.mzstatic.com
-wxviptz.nanerjia.com
-cnnic.net.cn
-www.cnnic.net.cn
-charlestownwyllie.oaklawnnonantum.com^
-go.onelink.me
-open.oneplus.net
-sky.t003.ottcn.com
-ads.pinterest.com
-widgets.pinterest.com
-ad2.plugmedia.hk
-d.reddit.com
-rightnative.com
-service.rightnativecontent.com
-logs.roku.com
-insights.samsung.com
-nmetrics.samsung.com
-bigdata.ssp.samsung.com
-analytics.samsungknox.com
-business.samsungusa.com
-browser.sentry-cdn.com
-api.app.skysrt.com
-api.device.skysrt.com
-sky.fs.skysrt.com
-apk.sky.fs.skysrt.com
-api.device.hw.skysrt.com
-log.skysrt.com
-push.skysrt.com
-tc.skysrt.com
-active.tc.skysrt.com
-movie.tc.skysrt.com
-api.tvinfo.skysrt.com
-sky.tvos.skysrt.com
-api.upgrade.skysrt.com
-webapp.skysrt.com
-update01.skyworth-cloud.com
-msmetrics.ws.sonos.com
-msmetrics-test.ws.sonos.com
-ads.superad.cc
-system-update-new.com
-apd-vodp2plogin.teg.tencent-cloud.net
-advertising.twitter.com
-cache.datamart.windows.com
-feedback.windows.com
-stats.wp.com
-update01.skyworth-cloud.com.wswebpic.com
-ads.xfastest.com
-api.ad.xiaomi.com
-globalapi.ad.xiaomi.com
-o2o.api.xiaomi.com
-data.mistat.india.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.xiaomi.com
-bss.pandora.xiaomi.com
-de.pandora.xiaomi.com
-dvb.pandora.xiaomi.com
-gallery.pandora.xiaomi.com
-jellyfish.pandora.xiaomi.com
-mishop.pandora.xiaomi.com
-upgrade.mishop.pandora.xiaomi.com
-stat.pandora.xiaomi.com
-data.mistat.rus.xiaomi.com
-appmetrica.yandex.com
-yandexadexchange.net
 /tw.{3}gov\.com/
 |r.i.ua^
 |mine.torrent.pw^
@@ -1414,6 +1270,7 @@ yandexadexchange.net
 ||rmgroyalmailcom.112.2o7.net^
 ||roxio.112.2o7.net^
 ||safaribooks.112.2o7.net^
+||samsung-com.112.2o7.net^
 ||santacruzsentinel.112.2o7.net^
 ||santacruzsentinelcom.112.2o7.net^
 ||sbsblukgov.112.2o7.net^
@@ -4139,6 +3996,8 @@ yandexadexchange.net
 ||ads.adsinimages.com^
 ||www.adsinimages.com^
 ||pop.redirect.adsjudo.com^
+||clck.adskeeper.com^
+||cm.adskeeper.com^
 ||jsc.adskeeper.com^
 ||s-img.adskeeper.com^
 ||ad.adsmart.net^
@@ -5040,6 +4899,7 @@ yandexadexchange.net
 ||geo.vortex.data.microsoft.com.akadns.net^
 ||v10-win.vortex.data.microsoft.com.akadns.net^
 ||modern.watson.data.microsoft.com.akadns.net^
+||vortex.data.microsoft.com.akadns.net^
 ||jadserve.postrelease.com.akadns.net^
 ||fp3.ads.stickyadstv.com.akadns.net^
 ||ip1.ads.stickyadstv.com.akadns.net^
@@ -5525,6 +5385,7 @@ yandexadexchange.net
 ||aan.amazon.com^
 ||aax-eu-dub.amazon.com^
 ||aax-us-east-retail-direct.amazon.com^
+||advertising-api-eu.amazon.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-org.amazon.com^
 ||device-metrics-us.amazon.com^
@@ -5623,9 +5484,11 @@ yandexadexchange.net
 ||advancelocal-adapter-image-uploads.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
 ||adzerk.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||alexa-sitestats.s3.amazonaws.com^
 ||ams-pageview-public.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
 ||bv-analytics-js-prod.s3.amazonaws.com^
 ||bv-analytics-js-qa.s3.amazonaws.com^
 ||campaign-tapad.s3.amazonaws.com^
@@ -6060,8 +5923,10 @@ yandexadexchange.net
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||iadsdk.apple.com^
+||metrics.apple.com^
 ||notes-analytics-events.apple.com^
 ||searchads.apple.com^
+||securemetrics.apple.com^
 ||stocks-analytics-events.apple.com^
 ||supportmetrics.apple.com^
 ||weather-analytics-events.apple.com^
@@ -6276,6 +6141,8 @@ yandexadexchange.net
 ||tag.apxlv.com^
 ||e.apxyz.com^
 ||m.apxyz.com^
+||vip.aqd103.xyz^
+||vip.aqdmv181.com^
 ||ad.aquamediadirect.com^
 ||ads.araba.com^
 ||hodor-collect.arabam.com^
@@ -6567,6 +6434,7 @@ yandexadexchange.net
 ||adserving.autotrader.com^
 ||t.av.st^
 ||adstatistics.av380.net^
+||e.av924.com^
 ||profiling.avandor.com^
 ||cdn.avantisvideo.com^
 ||events.avantisvideo.com^
@@ -7729,6 +7597,7 @@ yandexadexchange.net
 ||updates-s3.binaryage.com^
 ||analytics.binaryfortress.com^
 ||incsh.bincun.xyz^
+||telemetry.appex.bing.net^
 ||ads.bing.com^
 ||adserver.bing.com^
 ||c.bing.com^
@@ -8420,6 +8289,8 @@ yandexadexchange.net
 ||ticks2.bugsense.com^
 ||bcjjg.bugsevent.com^
 ||bcjxf.bugsevent.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||bannersgomlm.buildreferrals.com^
@@ -9874,7 +9745,6 @@ yandexadexchange.net
 ||d1lxhc4jvstzrp.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1mbgf0ge24riu.cloudfront.net^
-||d1mbihpm2gncx7.cloudfront.net^
 ||d1mdhw23tj9j17.cloudfront.net^
 ||d1miuq6afqay8u.cloudfront.net^
 ||d1miwkthq39xj8.cloudfront.net^
@@ -10116,13 +9986,11 @@ yandexadexchange.net
 ||d2xsy1lxezptdm.cloudfront.net^
 ||d2y8ttytgze7qt.cloudfront.net^
 ||d2yh8t8mdj4l9x.cloudfront.net^
-||d2ykons4g8jre6.cloudfront.net^
 ||d2ymkpxi1rgldj.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
 ||d2z0gqc8sv0l7p.cloudfront.net^
 ||d2z51a9spn09cw.cloudfront.net^
 ||d2zah9y47r7bi2.cloudfront.net^
-||d2zbpgxs57sg1k.cloudfront.net^
 ||d2zcblk8m9mzq5.cloudfront.net^
 ||d2zjlj1vewrxcj.cloudfront.net^
 ||d2zzazjvlpgmgi.cloudfront.net^
@@ -10232,12 +10100,10 @@ yandexadexchange.net
 ||d3lcz8vpax4lo2.cloudfront.net^
 ||d3lk5upv0ixky2.cloudfront.net^
 ||d3lvir7538n0oi.cloudfront.net^
-||d3lw2k94jnkvbs.cloudfront.net^
 ||d3m4hp4bp4w996.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
 ||d3mjsomixevyw7.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
-||d3mshiiq22wqhz.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
 ||d3n3a4vl82t80h.cloudfront.net^
@@ -10998,6 +10864,7 @@ yandexadexchange.net
 ||analytics.gate.co.id^
 ||conversions.genieventures.co.uk^
 ||montelena-rcv.gmarket.co.kr^
+||wa.gmx.co.uk^
 ||adservice.google.co.in^
 ||adservice.google.co.jp^
 ||adservice.google.co.za^
@@ -11361,7 +11228,6 @@ yandexadexchange.net
 ||dapenbi.co.id^
 ||dashacreations.co.za^
 ||delexdesigns.co.ke^
-||destinymc.co.za^
 ||dhauzja511.co.cc^
 ||dianomioffers.co.uk^
 ||dmgmediaprivacy.co.uk^
@@ -11411,7 +11277,6 @@ yandexadexchange.net
 ||humpuss.co.id^
 ||i-mobile.co.jp^
 ||iesnare.co.uk^
-||imbueautoworx.co.za^
 ||impressionz.co.uk^
 ||inleadership.co.nz^
 ||intertech.co.jp^
@@ -11466,6 +11331,7 @@ yandexadexchange.net
 ||moonbit.co.in^
 ||msrealty.co.in^
 ||multitooltrading.co.za^
+||mumgee.co.za^
 ||mycashback.co.uk^
 ||myfreegifts.co.uk^
 ||mylike.co.uk^
@@ -11476,7 +11342,6 @@ yandexadexchange.net
 ||netcore.co.in^
 ||netinsight.co.kr^
 ||netmag.co.uk^
-||networkwheels.co.za^
 ||ngazi.co.tz^
 ||nicorette.co.kr^
 ||noonschool.co.uk^
@@ -11635,7 +11500,6 @@ yandexadexchange.net
 ||www.coin-ad.com^
 ||www.coin-hive.com^
 ||www.coin-service.com^
-||events-service.coinbase.com^
 ||www.coinblind.com^
 ||api.coinerra.com^
 ||ws001.coinerra.com^
@@ -12412,6 +12276,7 @@ yandexadexchange.net
 ||baobaoshiye.com.cn^
 ||barrosagronegocios.com.py^
 ||batmobile.com.tw^
+||bearcatpumps.com.cn^
 ||beats.com.tw^
 ||bedbyaspokhrel.com.np^
 ||beespace.com.ua^
@@ -12637,6 +12502,7 @@ yandexadexchange.net
 ||meota.com.ng^
 ||metaworks.com.tr^
 ||ming-dun.com.tw^
+||minka.com.mx^
 ||minwear.com.cn^
 ||mistingsystem.com.au^
 ||mlre.com.cn^
@@ -12685,7 +12551,6 @@ yandexadexchange.net
 ||pensebig.com.br^
 ||pepsico.com.cn^
 ||peroladascolonias.com.br^
-||peticoesecontratos.com.br^
 ||photocarioca.com.br^
 ||pibaba.com.cn^
 ||pigewang.com.cn^
@@ -13081,8 +12946,12 @@ yandexadexchange.net
 ||s.conyak.com^
 ||data-hoisin.coocaa.com^
 ||hoisin.coocaa.com^
+||member.coocaa.com^
+||passport.coocaa.com^
+||pay.coocaa.com^
 ||qr.coocaa.com^
 ||res.hoisin.coocaatv.com^
+||api.hoisin.hw.coocaatv.com^
 ||hoisin.coocaatv.com^
 ||12.cookcai.com^
 ||www.cookevegas.com^
@@ -15094,6 +14963,7 @@ yandexadexchange.net
 ||ir.doubleclick.net^
 ||iv.doubleclick.net^
 ||m.doubleclick.net^
+||mediavisor.doubleclick.net^
 ||n4052ad.doubleclick.net^
 ||n4403ad.doubleclick.net^
 ||n479ad.doubleclick.net^
@@ -15495,6 +15365,7 @@ yandexadexchange.net
 ||t.e0hkzk2.cn^
 ||analytics.e1.ru^
 ||analytics.e2estudios.com^
+||app.e2ma.net^
 ||embed.e2ma.net^
 ||562fe635d3.e5bbd2cdb0.com^
 ||mangler3.generals.ea.com^
@@ -16894,6 +16765,7 @@ yandexadexchange.net
 ||phen.fabricmedia.ru^
 ||delivery.fabrouter.com^
 ||www.face2trade.com^
+||ads.facebook.com^
 ||an.facebook.com^
 ||analytics.facebook.com^
 ||badge.facebook.com^
@@ -18177,6 +18049,7 @@ yandexadexchange.net
 ||everlywell.cname.getrockerbox.com^
 ||metrics.getrockerbox.com^
 ||www.getrockerbox.com^
+||app.getsentry.com^
 ||analytics.getshogun.com^
 ||dash.getsitecontrol.com^
 ||events.getsitectrl.com^
@@ -20205,6 +20078,7 @@ yandexadexchange.net
 ||css.huvmi.com^
 ||e-ad-monitor.huya.com^
 ||e-stat.huya.com^
+||g.huya.com^
 ||metric.huya.com^
 ||p2p.huya.com^
 ||statwup.huya.com^
@@ -20717,7 +20591,6 @@ yandexadexchange.net
 ||groupbooking.ind.in^
 ||landownershare.ind.in^
 ||landownerunits.ind.in^
-||marketingoffice.ind.in^
 ||officialenquiry.ind.in^
 ||salesoffice.ind.in^
 ||salesofficial.ind.in^
@@ -21948,6 +21821,7 @@ yandexadexchange.net
 ||policy.video.iqiyi.com^
 ||act.vip.iqiyi.com^
 ||api.yuedu.iqiyi.com^
+||apisgame.iqiyi.com^
 ||cards-css.iqiyi.com^
 ||cloudpush.iqiyi.com^
 ||cs-feige.iqiyi.com^
@@ -22932,7 +22806,6 @@ yandexadexchange.net
 ||www.kitaramedia.com^
 ||www.kitchentablegang.org^
 ||src.kitcode.net^
-||logg.kiwi.com^
 ||www.kixer.com^
 ||ve.kj-cy.cn^
 ||www.kjbbc.net^
@@ -23218,6 +23091,7 @@ yandexadexchange.net
 ||ask.log.kuyun.com^
 ||logonext.tv.kuyun.com^
 ||config.kuyun.com^
+||www.kuyunzy.co^
 ||hl.kuzu.com^
 ||tdep.kvk.nl^
 ||api.kwaizt.com^
@@ -23573,6 +23447,7 @@ yandexadexchange.net
 ||www.lightminer.co^
 ||stats5.lightningcast.com^
 ||stats6.lightningcast.net^
+||adv.lihkg.com^
 ||zgxuw.lihong.ltd^
 ||pba.aws.lijit.com^
 ||ap.lijit.com^
@@ -24086,9 +23961,11 @@ yandexadexchange.net
 ||ads.lucidmedia.com^
 ||user.lucidmedia.com^
 ||www.luckycrush.live^
+||cdn.luckyorange.com^
 ||cs.luckyorange.net^
 ||settings.luckyorange.net^
 ||upload.luckyorange.net^
+||w1.luckyorange.com^
 ||vip.ludu319.com^
 ||www.lufhansa.com^
 ||www.lufthansaairlines.com^
@@ -25205,8 +25082,11 @@ yandexadexchange.net
 ||v20.vortex-win.data.microsoft.com^
 ||web.vortex.data.microsoft.com^
 ||settings-sandbox.data.microsoft.com^
+||settings-win.data.microsoft.com^
 ||settings-win-ppe.data.microsoft.com^
+||vortex.data.microsoft.com^
 ||vortex-sandbox.data.microsoft.com^
+||vortex-win.data.microsoft.com^
 ||vortex-win-sandbox.data.microsoft.com^
 ||ztd.dds.microsoft.com^
 ||api.edgeoffer.microsoft.com^
@@ -25216,6 +25096,7 @@ yandexadexchange.net
 ||redir.metaservices.microsoft.com^
 ||feedback.search.microsoft.com^
 ||i1.services.social.microsoft.com^
+||corp.sts.microsoft.com^
 ||diagnostics.support.microsoft.com^
 ||reports.wes.df.telemetry.microsoft.com^
 ||services.wes.df.telemetry.microsoft.com^
@@ -25403,6 +25284,7 @@ yandexadexchange.net
 ||reader.browser.miui.com^
 ||security.browser.miui.com^
 ||tracking.india.miui.com^
+||sa.api.intl.miui.com^
 ||activity.browser.intl.miui.com^
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
@@ -26566,6 +26448,7 @@ yandexadexchange.net
 ||l.namjai.cc^
 ||tr.namu.wiki^
 ||logs.nandu.com^
+||wxviptz.nanerjia.com^
 ||www.nanoadexchange.com^
 ||nanostats.nanopress.it^
 ||1.nanrenwo.net^
@@ -26795,6 +26678,7 @@ yandexadexchange.net
 ||logger.nerdwallet.com^
 ||www.nerohut.com^
 ||ads.nerve.com^
+||www.neshuafoods.com^
 ||tracking.nesox.com^
 ||www.nestscape.com^
 ||www.neszmely.eu^
@@ -27618,6 +27502,7 @@ yandexadexchange.net
 ||track.msadcenter.oah.com^
 ||www.oainternet.com^
 ||track.oainternetservices.com^
+||charlestownwyllie.oaklawnnonantum.com^
 ||c.x.oanda.com^
 ||telemetry.firstpartyapps.oaspapps.com^
 ||consent.cmp.oath.com^
@@ -28151,6 +28036,7 @@ yandexadexchange.net
 ||ads.opensubtitles.org^
 ||ads1.opensubtitles.org^
 ||track.opentable.com^
+||track.opentable.de^
 ||img.opentracker.net^
 ||log.opentracker.net^
 ||script.opentracker.net^
@@ -28302,7 +28188,6 @@ yandexadexchange.net
 ||51posuiji.org.cn^
 ||aat.org.ar^
 ||ad.org.vn^
-||aideca.org.pe^
 ||banner.org.ua^
 ||bestcoachingcentre.org.in^
 ||blackqpid.org.uk^
@@ -28381,6 +28266,7 @@ yandexadexchange.net
 ||dp3.play.t002.ottcn.com^
 ||mtrace.play.t002.ottcn.com^
 ||rpt-gdt.play.t002.ottcn.com^
+||sky.t003.ottcn.com^
 ||adserver.otthonom.hu^
 ||ats.otto.de^
 ||orbidder.otto.de^
@@ -29183,6 +29069,7 @@ yandexadexchange.net
 ||log.pinterest.com^
 ||trk.pinterest.com^
 ||trk2.pinterest.com^
+||widgets.pinterest.com^
 ||www.pintour.com^
 ||ads.pipaffiliates.com^
 ||clicks.pipaffiliates.com^
@@ -29290,6 +29177,7 @@ yandexadexchange.net
 ||cdn.pljs.ru^
 ||motoe.plokr.com^
 ||plug.plugerr.com^
+||ad2.plugmedia.hk^
 ||pu.plugrush.com^
 ||static.plugrush.com^
 ||leadtracking.plumvoice.com^
@@ -31289,6 +31177,7 @@ yandexadexchange.net
 ||www.rightmedia.com^
 ||tag.rightmessage.com^
 ||tracking.rightmessage.com^
+||service.rightnativecontent.com^
 ||www.rightstats.com^
 ||www.rihoworld.com^
 ||statistiek.rijksoverheid.nl^
@@ -31650,7 +31539,9 @@ yandexadexchange.net
 ||worden.samenresultaat.nl^
 ||tracker.samplicio.us^
 ||beacon.samsclub.com^
+||bigdata.ssp.samsung.com^
 ||insights.samsung.com^
+||nmetrics.samsung.com^
 ||sca.samsung.com^
 ||log-1.samsungacr.com^
 ||log-2.samsungacr.com^
@@ -31697,6 +31588,7 @@ yandexadexchange.net
 ||gld.samsungosp.com^
 ||osb-ussvc.samsungqbe.com^
 ||sspapi-prd.samsungrs.com^
+||business.samsungusa.com^
 ||api-hub.samsungyosemite.com^
 ||us-api.samsungyosemite.com^
 ||m.sancdn.net^
@@ -32020,6 +31912,7 @@ yandexadexchange.net
 ||config.sensic.net^
 ||de-config.sensic.net^
 ||api.sentiance.com^
+||browser.sentry-cdn.com^
 ||o861134.ingest.sentry.io^
 ||delivery.senvangvn.com^
 ||www.seoholding.com^
@@ -32431,6 +32324,7 @@ yandexadexchange.net
 ||api.shoppingminds.net^
 ||trkr.shoppingminds.net^
 ||www.shoppingminds.net^
+||reviews.shoppydoo.it^
 ||stats.shoppydoo.com^
 ||dp.shoprunner.com^
 ||logs-api.shoprunner.com^
@@ -32731,15 +32625,24 @@ yandexadexchange.net
 ||analytics.skyscanner.net^
 ||api.app.skysrt.com^
 ||api.device.skysrt.com^
+||apk.sky.fs.skysrt.com^
+||sky.fs.skysrt.com^
 ||api.home.skysrt.com^
+||api.device.hw.skysrt.com^
 ||business.video.tc.skysrt.com^
 ||active.tc.skysrt.com^
+||movie.tc.skysrt.com^
+||api.tvinfo.skysrt.com^
 ||sky.tvos.skysrt.com^
+||api.upgrade.skysrt.com^
 ||api-home.skysrt.com^
 ||clog.skysrt.com^
 ||data-dl.skysrt.com^
 ||dl.skysrt.com^
+||log.skysrt.com^
+||push.skysrt.com^
 ||rpc-tc.skysrt.com^
+||tc.skysrt.com^
 ||tq.skysrt.com^
 ||tvos.skysrt.com^
 ||webapp.skysrt.com^
@@ -33364,6 +33267,7 @@ yandexadexchange.net
 ||jzclick.soso.com^
 ||pingfore.soso.com^
 ||toolbar.soso.com^
+||cdn.sosrom.cn^
 ||tongji.home.soufun.com^
 ||countubn.light.soufun.com^
 ||click1n.soufun.com^
@@ -34303,7 +34207,6 @@ yandexadexchange.net
 ||www.szshouzhai.com^
 ||m.szyuke.cn^
 ||rsas.szzek.com^
-||consent.t-mobile.cz^
 ||rt.t-online.de^
 ||top.t-sk.ru^
 ||t2.t2b.click^
@@ -34804,6 +34707,7 @@ yandexadexchange.net
 ||banners.tempobet.com^
 ||a.tempurpedic.com^
 ||beacon.sparta.mig.tencent-cloud.net^
+||apd-vodp2plogin.teg.tencent-cloud.net^
 ||ping.cloud.tencent.com^
 ||sensors.cloud.tencent.com^
 ||access*.tpns.tencent.com^
@@ -36082,6 +35986,7 @@ yandexadexchange.net
 ||ads.twitter.com^
 ||ads-api.twitter.com^
 ||ads-bidder-api.twitter.com^
+||advertising.twitter.com^
 ||scribe.twitter.com^
 ||search.twitter.com^
 ||syndication.twitter.com^
@@ -38172,6 +38077,7 @@ yandexadexchange.net
 ||ad.wsod.com^
 ||admedia.wsod.com^
 ||market.wsskj520.cn^
+||update01.skyworth-cloud.com.wswebpic.com^
 ||piwik.wsws.org^
 ||e.wsxxu.com^
 ||m.wsxxu.com^
@@ -38346,6 +38252,7 @@ yandexadexchange.net
 ||www.cgi-view-item-co-uk.xf.cz^
 ||cgi-view-item-co-uk.xf.cz^
 ||w-chat.xf.cz^
+||ads.xfastest.com^
 ||asldfkjs.xfgctg.com^
 ||photo.xfytjx.cn^
 ||tracker.xgen.dev^
@@ -39315,6 +39222,7 @@ yandexadexchange.net
 ||c.yes.youku.com^
 ||m.yes.youku.com^
 ||adx-open-service.youku.com^
+||atm.youku.com^
 ||cad.youku.com^
 ||dmapp.youku.com^
 ||ems.youku.com^
@@ -40374,7 +40282,6 @@ yandexadexchange.net
 ||1dfsdfg.com^
 ||1dmp.io^
 ||1e4y54ve.cn^
-||1ecosolution.it^
 ||1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz^
 ||1ejaculationinterne.com^
 ||1empiredirect.com^
@@ -42004,7 +41911,6 @@ yandexadexchange.net
 ||abhorcarious.com^
 ||abi83-schramberg.de^
 ||abiaobai.cn^
-||abibiall.com^
 ||abieaoa.cn^
 ||abkoxlikbzs.com^
 ||ablefull.com^
@@ -42058,6 +41964,7 @@ yandexadexchange.net
 ||absurdapple.com^
 ||absurdwater.com^
 ||abtasty.com^
+||abtshield.com^
 ||abubakarbukolasaraki.com^
 ||abumohor.com^
 ||abundled.club^
@@ -42938,6 +42845,7 @@ yandexadexchange.net
 ||adsinimages.com^
 ||adsino24.com^
 ||adsinstant.com^
+||adsixmedia.fr^
 ||adsjumbo.com^
 ||adskeeper.com^
 ||adsklick.de^
@@ -42945,6 +42853,7 @@ yandexadexchange.net
 ||adskpak.com^
 ||adsloboclick.com^
 ||adslop.com^
+||adsluna.com^
 ||adsmart.com^
 ||adsmart.net^
 ||adsmatcher.com^
@@ -43253,6 +43162,7 @@ yandexadexchange.net
 ||adzfun.me^
 ||adzhub.com^
 ||adziff.com^
+||adzincome.in^
 ||adzmarket.net^
 ||adzmedia.com^
 ||adzmob.com^
@@ -43414,6 +43324,7 @@ yandexadexchange.net
 ||agkn.com^
 ||agla.fr^
 ||aglagzoq.com^
+||aglaulou.com^
 ||agle21xe2anfddirite.com^
 ||agletmagilp.com^
 ||agloowie.com^
@@ -43830,6 +43741,7 @@ yandexadexchange.net
 ||alllget.com^
 ||allluck.cn^
 ||allmygoodlife.com^
+||allo-media.net^
 ||allocnie.fr^
 ||allofficesolutions.com^
 ||allogarages.fr^
@@ -44387,6 +44299,7 @@ yandexadexchange.net
 ||aqiwxzv.cn^
 ||aqkkoalfpz.com^
 ||aqnpbpa.cn^
+||aqours.today^
 ||aqpogwawr.com^
 ||aqsj.xyz^
 ||aqtracker.com^
@@ -45962,6 +45875,7 @@ yandexadexchange.net
 ||biucosmetics.fr^
 ||bivgiokd0y.cn^
 ||biwo.ink^
+||bixinlive.com^
 ||biyond.in^
 ||biyondimagination.com^
 ||biz-offer.com^
@@ -46724,7 +46638,6 @@ yandexadexchange.net
 ||buytowe.com^
 ||buyu8001.com^
 ||buyuninfo.com^
-||buzwaz.com^
 ||buzzad.io^
 ||buzzadnetwork.com^
 ||buzzads.com^
@@ -47045,7 +46958,6 @@ yandexadexchange.net
 ||cartstack.com^
 ||caruagedlr.com^
 ||carvyre.com^
-||casadeco.tn^
 ||casaemily.it^
 ||casalemedia.com^
 ||casalespinazzella.it^
@@ -48530,7 +48442,6 @@ yandexadexchange.net
 ||cornplus.cn^
 ||corp-downloads.com^
 ||corpculture.in^
-||corpernaija.com^
 ||corporacionricra.pe^
 ||correctchaos.com^
 ||correosrastreos.com^
@@ -48854,7 +48765,6 @@ yandexadexchange.net
 ||csred.org^
 ||cssjs.info^
 ||cstrespsurvey.ca^
-||csuytfmhtk.com^
 ||cswilliamsburg.com^
 ||csxsyp.cn^
 ||csztzc.com^
@@ -48975,7 +48885,6 @@ yandexadexchange.net
 ||cutworkbanago.cam^
 ||cux.io^
 ||cuxiao.site^
-||cv-planet.com^
 ||cvastico.com^
 ||cvbdw.xyz^
 ||cvcddno.cn^
@@ -49029,7 +48938,6 @@ yandexadexchange.net
 ||cyboke.cn^
 ||cyborcoin.com^
 ||cyborpay.com^
-||cybortrading.com^
 ||cyborworld.com^
 ||cyclismpeddled.cam^
 ||cycytea.cn^
@@ -49177,7 +49085,6 @@ yandexadexchange.net
 ||damaoli.com^
 ||damb68.com^
 ||damdoor.com^
-||damedamehoy.xyz^
 ||dameyuan.com^
 ||damow.cn^
 ||dampdock.com^
@@ -49841,7 +49748,6 @@ yandexadexchange.net
 ||distinct-bicycle.com^
 ||distinctday.com^
 ||distinctlynobleprosecute.com^
-||distract3d.com^
 ||distralytics.com^
 ||distributeclick.site^
 ||districtm.ca^
@@ -50205,7 +50111,6 @@ yandexadexchange.net
 ||dreamcounter.de^
 ||dreamfull.cn^
 ||dreamine.com^
-||dreamlightbd.com^
 ||dreamlist.top^
 ||dreamone.online^
 ||dreamsky.xin^
@@ -52057,7 +51962,6 @@ yandexadexchange.net
 ||flbox.net^
 ||flcounter.com^
 ||flctbg.com^
-||fleetstock.com^
 ||fleraprt.com^
 ||fleshlightcash.com^
 ||flexbanner.com^
@@ -53191,7 +53095,6 @@ yandexadexchange.net
 ||glbtracker.com^
 ||glbtrk.com^
 ||gleamingtrade.com^
-||gleechie.net^
 ||glefeesh.net^
 ||glenamel.org^
 ||glenprejudice.com^
@@ -53267,6 +53170,7 @@ yandexadexchange.net
 ||glyphwursts.digital^
 ||glzyw.com^
 ||gma1.com^
+||gmad1.xyz^
 ||gmads.net^
 ||gmai.com^
 ||gmaii.com^
@@ -53732,7 +53636,6 @@ yandexadexchange.net
 ||grtyj.com^
 ||grubfast.com^
 ||grubsoan.com^
-||grumblecrytopless.com^
 ||grunoaph.net^
 ||grupogusope.com^
 ||grupoics.cl^
@@ -53802,7 +53705,6 @@ yandexadexchange.net
 ||gubgonx.cn^
 ||guccimenjpsale.com^
 ||guchihyfa.pro^
-||guernseytv.com^
 ||guerrerevisal.website^
 ||guerrilla-links.com^
 ||guesswhatnews.com^
@@ -54117,6 +54019,7 @@ yandexadexchange.net
 ||hashvault.pro^
 ||haslundalsted.dk^
 ||hasmobi.net^
+||hatagashira.com^
 ||hatchetsiegecleverness.com^
 ||hatedgeographical.com^
 ||hatefulrequest.com^
@@ -54169,7 +54072,6 @@ yandexadexchange.net
 ||hbyjrspyxgs.site^
 ||hbys66.com^
 ||hbyyzm.com^
-||hbzhrxdmm.com^
 ||hbzhurong.cn^
 ||hbzjht.com^
 ||hcbd.al^
@@ -54251,7 +54153,6 @@ yandexadexchange.net
 ||hechaocheng.cn^
 ||hecherthepar.com^
 ||hecticpassenger.com^
-||hedaiyat.com^
 ||hedgehoghugsyou.com^
 ||hedgehogpoachsay.com^
 ||hedrvszms.com^
@@ -55233,7 +55134,6 @@ yandexadexchange.net
 ||ibgdd67.top^
 ||ibillboard.com^
 ||iblimq.xyz^
-||iblok.io^
 ||ibmvideo.com^
 ||ibnekaseer.net^
 ||iboxs.xyz^
@@ -56121,6 +56021,7 @@ yandexadexchange.net
 ||itineraryupper.com^
 ||itjew.xyz^
 ||itjie.xyz^
+||itmcash.com^
 ||itnuzleafan.com^
 ||itnxqd.xyz^
 ||itnxxa.xyz^
@@ -56697,7 +56598,6 @@ yandexadexchange.net
 ||jpgtpbl.cn^
 ||jphfqq.cn^
 ||jpivxtsxpkn.com^
-||jpmpuxglivupwy.com^
 ||jpnbhyba.xyz^
 ||jpovulldaghw.com^
 ||jpush.cn^
@@ -56716,7 +56616,6 @@ yandexadexchange.net
 ||jqueryscript.net^
 ||jqwww.download^
 ||jqyde7msbro2.com^
-||jr-software-web.net^
 ||jrdkc.com^
 ||jrfa.net^
 ||jrfurnace.com^
@@ -57247,6 +57146,7 @@ yandexadexchange.net
 ||kinoneeloign.com^
 ||kiosked.com^
 ||kirov1.xyz^
+||kirsche9.live^
 ||kisafnid.space^
 ||kishanhydro.com^
 ||kissdoujin.com^
@@ -57727,7 +57627,6 @@ yandexadexchange.net
 ||lamberserer.club^
 ||lambingsyddir.com^
 ||lame7bsqu8barters.com^
-||lameguard.ru^
 ||lameletters.com^
 ||lameterthenhep.com^
 ||lamiflor.xyz^
@@ -57885,6 +57784,7 @@ yandexadexchange.net
 ||leadboltapps.net^
 ||leadboltmobile.net^
 ||leadboxer.com^
+||leadchampion.com^
 ||leadclick.com^
 ||leaddyno.com^
 ||leaderhistliness.info^
@@ -57927,7 +57827,6 @@ yandexadexchange.net
 ||learningc.website^
 ||learningmu.com^
 ||learnoset.com^
-||learnovia.com^
 ||learntinga.com^
 ||leasiacherise.com^
 ||leathtexactlyci.com^
@@ -58620,6 +58519,7 @@ yandexadexchange.net
 ||loulouly.net^
 ||loungebearing.com^
 ||loupan99.com^
+||lourdoueisienne.website^
 ||louses.net^
 ||lousyfastened.com^
 ||loutedpewing.com^
@@ -58643,7 +58543,6 @@ yandexadexchange.net
 ||loweredinflammable.com^
 ||lowervalues.com^
 ||lowhardboiledadjoin.com^
-||lowkeyfamousfest.com^
 ||lowlocket.com^
 ||lowrance.top^
 ||lowrihouston.pro^
@@ -59492,7 +59391,6 @@ yandexadexchange.net
 ||megacdn.top^
 ||megadeliveryn.com^
 ||megajoy.com^
-||megapipsea.com^
 ||megapu.sh^
 ||megasofttissues.com^
 ||megastats.com^
@@ -60046,6 +59944,7 @@ yandexadexchange.net
 ||mobtop.com^
 ||mobtop.ru^
 ||mobtrks.com^
+||mobtyb.com^
 ||mobvista.com^
 ||mobylog.jp^
 ||mobytrks.com^
@@ -60538,6 +60437,7 @@ yandexadexchange.net
 ||mybmrtrg.com^
 ||mybuys.com^
 ||mycaal.fr^
+||mycasinoaccounts.com^
 ||mycdn.co^
 ||mycdn2.co^
 ||mycheckergeo.com^
@@ -60737,12 +60637,12 @@ yandexadexchange.net
 ||naayna.com^
 ||nabalpal.com^
 ||nablabee.com^
+||nabobketupa.com^
 ||nabucuo.com^
 ||nacontent.pro^
 ||nactx.com^
 ||nadjustifygas.com^
 ||nafdigitalbidder.com^
-||nagoya-mansion.com^
 ||nahnoji.cz^
 ||naiadsystems.com^
 ||naiantbedash.com^
@@ -60816,6 +60716,7 @@ yandexadexchange.net
 ||nativepu.sh^
 ||nativeroll.tv^
 ||nativespot.com^
+||nativesubscribe.pro^
 ||nativewpsh.com^
 ||nativex.com^
 ||natpal.com^
@@ -61358,6 +61259,7 @@ yandexadexchange.net
 ||nongzhifu.cn^
 ||nonotro.name^
 ||nonspewpa.com^
+||nooen.com^
 ||noonfrequentpea.com^
 ||noonimpex.com^
 ||nooroapo.com^
@@ -61919,6 +61821,7 @@ yandexadexchange.net
 ||oneminuteplayfestival.org^
 ||onemold.com^
 ||onenetworkdirect.com^
+||onenews.vip^
 ||onepager.fr^
 ||onesoft.im^
 ||onestat.com^
@@ -61931,7 +61834,9 @@ yandexadexchange.net
 ||onetouch4.com^
 ||onetouch7.info^
 ||onetouch8.info^
+||onetrust.*^
 ||onetrust.com^
+||onetrust.org^
 ||onewsvod.com^
 ||onfckepwq.com^
 ||ongsono.com^
@@ -62147,6 +62052,7 @@ yandexadexchange.net
 ||organic-harmony.com^
 ||organsshinegarlic.com^
 ||organsthud.com^
+||orgaorg.com^
 ||oribi.io^
 ||oriceline.com^
 ||orientalocean.mobi^
@@ -62516,6 +62422,7 @@ yandexadexchange.net
 ||parameter.dk^
 ||paraskov.com^
 ||parcelcreature.com^
+||parcelinvoice.com^
 ||parchedangle.com^
 ||parchedscrew.pro^
 ||parchedsofa.com^
@@ -62560,7 +62467,6 @@ yandexadexchange.net
 ||pasiekazlotoklos.pl^
 ||paslsa.com^
 ||pass-1234.com^
-||passedofferundertake.com^
 ||passengerpage.com^
 ||passeura.com^
 ||passfixx.com^
@@ -63215,7 +63121,6 @@ yandexadexchange.net
 ||pmthinktank.shop^
 ||pn.vg^
 ||pncloudfl.com^
-||pncqcqdj.com^
 ||pndagz.com^
 ||pnesemr.cn^
 ||pneuth.com^
@@ -63543,7 +63448,6 @@ yandexadexchange.net
 ||premiumredir.ru^
 ||premiumstats.xyz^
 ||premiumvertising.com^
-||premovenonda.com^
 ||preoccupydaughterinlaw.com^
 ||prepareplanes.com^
 ||preroot.xyz^
@@ -64235,6 +64139,7 @@ yandexadexchange.net
 ||qe0ckm024b.com^
 ||qectme.xyz^
 ||qeextension.com^
+||qeryz.com^
 ||qevcxo.cn^
 ||qf1d.top^
 ||qfcdgy.cn^
@@ -64435,7 +64340,6 @@ yandexadexchange.net
 ||qs9jfd.com^
 ||qs9jfd.xyz^
 ||qscbygyojmfmcl.com^
-||qscidskqz.com^
 ||qscwdv.top^
 ||qsdqyf.cn^
 ||qsdsejarkznkqa.com^
@@ -64527,6 +64431,7 @@ yandexadexchange.net
 ||questionpro.ca^
 ||questradeaffiliates.com^
 ||quick-counter.net^
+||quickapp.cn^
 ||quickbrowsersearch.com^
 ||quickchess.fr^
 ||quickdates1.com^
@@ -64648,7 +64553,6 @@ yandexadexchange.net
 ||radiate.com^
 ||radio42.fr^
 ||radiocatolicaelesplendordelaverdad.net^
-||radiomix.ar^
 ||radioseptimodia.com^
 ||radishop.pt^
 ||radiso.pt^
@@ -64759,6 +64663,7 @@ yandexadexchange.net
 ||rawearth.in^
 ||rawgsjd.cn^
 ||rawjeansadvertising.com^
+||rawoarsy.com^
 ||raydatlawco.com^
 ||rayjump.com^
 ||rayonrehab.com^
@@ -65207,7 +65112,6 @@ yandexadexchange.net
 ||retargeter.com^
 ||retargeting.biz^
 ||retargetly.com^
-||retauwhu.com^
 ||retdaz.fun^
 ||retentionscience.com^
 ||rethowilmari.com^
@@ -65341,6 +65245,7 @@ yandexadexchange.net
 ||rickrolling.com^
 ||ricqo.com^
 ||ridepush.com^
+||ridexasperateunstable.com^
 ||ridtechzone.com^
 ||riemak.com^
 ||riflescoperanger.com^
@@ -65351,6 +65256,7 @@ yandexadexchange.net
 ||rightfulfall.com^
 ||rightmedia.net^
 ||rightmessage.com^
+||rightnative.com^
 ||rights.wang^
 ||rightstats.com^
 ||rigidrobin.com^
@@ -65397,7 +65303,6 @@ yandexadexchange.net
 ||riverhit.com^
 ||riverhita.com^
 ||riverpush.com^
-||riverview.hu^
 ||rivetrearrange.com^
 ||riviaproperty.com^
 ||rixero.com^
@@ -65868,6 +65773,7 @@ yandexadexchange.net
 ||sailcovertend.com^
 ||sailif.com^
 ||sailsuit.com^
+||saimifoa.net^
 ||saimone.com^
 ||saininglcm.live^
 ||saintouen-villagedesrosiers.fr^
@@ -66410,6 +66316,7 @@ yandexadexchange.net
 ||sessionamateur.com^
 ||sessioncam.com^
 ||sessionm.com^
+||sessionstack.com^
 ||setbbts.cyou^
 ||setqre.cn^
 ||setrise.nl^
@@ -68442,6 +68349,7 @@ yandexadexchange.net
 ||sysomos.com^
 ||systadin.fr^
 ||system-notify.app^
+||system-update-new.com^
 ||system-update-new-2021.com^
 ||systematixinfotech.fr^
 ||systemizecoat.com^
@@ -69038,6 +68946,7 @@ yandexadexchange.net
 ||thecontroversialfiles.net^
 ||thecoolposts.com^
 ||thecred.info^
+||thedashami.com^
 ||thedatesafe.com^
 ||thedeliberateng.com^
 ||thedemocraticpost.com^
@@ -70948,7 +70857,6 @@ yandexadexchange.net
 ||vadspremium.com^
 ||vadypb.cn^
 ||vaedan.top^
-||vaeesspot.com^
 ||vaeginutra.com^
 ||vagvedi.cn^
 ||vahufapave.com^
@@ -72059,6 +71967,7 @@ yandexadexchange.net
 ||weixinhuoyuan.com^
 ||weixinxx.com^
 ||weixisiwang.com^
+||weizhenwx.com^
 ||weizjzg.com^
 ||wekb.club^
 ||welcomejohncena.pro^
@@ -72908,6 +72817,7 @@ yandexadexchange.net
 ||xegluwate.com^
 ||xeihy.com^
 ||xektyy.cn^
+||xelements.cn^
 ||xen-media.com^
 ||xengbale.fun^
 ||xeoliders.com^
