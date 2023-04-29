@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-29T01:11:07.384Z
+! Last modified: 2023-04-29T01:24:55.249Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -31459,7 +31459,6 @@ chat.bilibili.com
 ||st-n.pc3ads.com^
 ||www.pccleaner.com^
 ||www.pccleanerpro.com^
-||down.pcclear.com^
 ||www.pcejuyhjucmkiny.ru^
 ||btn.pchome.net^
 ||js-1.pchome.net^
@@ -34391,6 +34390,7 @@ chat.bilibili.com
 ||v.saastt.com^
 ||ads.sacbee.com^
 ||www.sacredphoenix.com^
+||www.saf-oil.ru^
 ||dmzls.safe-installation.com^
 ||pixel.safe-installation.com^
 ||api.safedk.com^
@@ -38690,7 +38690,6 @@ chat.bilibili.com
 ||wrap.tradedoubler.com^
 ||www.tradedoubler.com^
 ||webads.tradeholding.com^
-||www.tradeinsights.net^
 ||www.tradelax.com^
 ||www.tradem.com^
 ||cts.tradepub.com^
@@ -57523,6 +57522,7 @@ chat.bilibili.com
 ||googletagmanager.com^
 ||googletagmanager-cn.com^
 ||googletagservices.com^
+||googletagservices-cn.com^
 ||googlevads-cn.com^
 ||googlevideoads.com^
 ||googlo.co^
@@ -59717,8 +59717,10 @@ chat.bilibili.com
 ||indiscerptible-provisionally.jp^
 ||individuad.net^
 ||indoleads.com^
+||indonesias.me^
 ||indpolice.com^
 ||indraftcoft.digital^
+||indrasbikaner.com^
 ||induceresistbrotherinlaw.com^
 ||induedabusive.casa^
 ||industry-specialist.com^
@@ -63329,6 +63331,7 @@ chat.bilibili.com
 ||marootrack.co^
 ||marormesole.com^
 ||marphezis.com^
+||marquesvogt.com^
 ||married-court.com^
 ||marriedbelief.com^
 ||marshagalea.com^
@@ -64177,6 +64180,7 @@ chat.bilibili.com
 ||moaglail.xyz^
 ||moaihkbrogywwiw.xyz^
 ||moapuwhe.com^
+||moarkgcc.com^
 ||moartraffic.com^
 ||moat.com^
 ||moatads.com^
@@ -79216,7 +79220,6 @@ chat.bilibili.com
 ||zeustechnology.com^
 ||zevents.com^
 ||zewkj.com^
-||zexeq.com^
 ||zeyappland.com^
 ||zeypreland.com^
 ||zfacts.com^
