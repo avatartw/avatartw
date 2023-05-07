@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-07T17:55:40.209Z
+! Last modified: 2023-05-07T17:59:16.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -115,6 +115,7 @@ chat.bilibili.com
 ||www.10000hai.com^
 ||www.1000lashes.com^
 ||www.1000russianwomen.com^
+||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||jf.10010.com^
 ||smartad.10010.com^
@@ -8037,7 +8038,6 @@ chat.bilibili.com
 ||ads.bigrebelads.com^
 ||android.bigresource.com^
 ||banex.bikers-engine.com^
-||bigs.bikershop.biz^
 ||fahrrad.bikesshop.de^
 ||www.bilbob.com^
 ||rem-track.bild.de^
@@ -11720,6 +11720,7 @@ chat.bilibili.com
 ||egy.co.in^
 ||ekmpinpoint.co.uk^
 ||eltex.co.jp^
+||emaids.co.za^
 ||enhance.co.jp^
 ||erate.co.il^
 ||estatcounter.co.uk^
@@ -12499,7 +12500,6 @@ chat.bilibili.com
 ||adc-js.nine.com.au^
 ||api.nobeta.com.br^
 ||tracker.novage.com.ua^
-||www.nprlogistica.com.br^
 ||synad.nuffnang.com.sg^
 ||synad2.nuffnang.com.cn^
 ||synad3.nuffnang.com.my^
@@ -15642,7 +15642,6 @@ chat.bilibili.com
 ||gg.dsxdn.com^
 ||jiansuo.dsxdn.com^
 ||analytics.dsyqt.com^
-||assets.dsztfso.cn^
 ||img.dt00.net^
 ||imgg.dt00.net^
 ||jsn.dt00.net^
@@ -41018,7 +41017,6 @@ chat.bilibili.com
 ||www.yqjxzw.com^
 ||m.yqqlm.vip^
 ||www.yrals.com^
-||www.ysbaojia.com^
 ||gho.ysbjgjwh.com^
 ||daima.ysdui.com^
 ||m.ysgsq.cn^
@@ -45007,6 +45005,7 @@ chat.bilibili.com
 ||aircraft-fapi.club^
 ||airdoamoord.com^
 ||airhobi.com^
+||airlinesgroupbooking.com^
 ||airlogs.ru^
 ||airmore.co^
 ||airnetinfotech.com^
@@ -45173,6 +45172,7 @@ chat.bilibili.com
 ||alexatracker.com^
 ||alexianer-service.de^
 ||alexine.net^
+||alexmarineengineering.com^
 ||alexxxxpages.info^
 ||alexyu.fr^
 ||alf-img.com^
@@ -48666,6 +48666,7 @@ chat.bilibili.com
 ||centralheat.me^
 ||centraltag.com^
 ||centrexmeteor.com^
+||centrovivencialdepsicoterapias.com^
 ||ceodk.xyz^
 ||ceoqq.xyz^
 ||cephasrewed.com^
@@ -49510,6 +49511,7 @@ chat.bilibili.com
 ||cognitiv.ai^
 ||cognitivematch.com^
 ||cohesionapps.com^
+||coiffurepacitto.com^
 ||coihive.com^
 ||coin-ad.com^
 ||coin-cube.com^
@@ -53961,6 +53963,7 @@ chat.bilibili.com
 ||fremaks.net^
 ||frenchbweb.fr^
 ||frenchequal.pro^
+||frenchiescity.com^
 ||frenciumit.com^
 ||frenesies.fr^
 ||frequentanalyst.com^
@@ -56347,7 +56350,6 @@ chat.bilibili.com
 ||hotzxgirl.com^
 ||houbaotech.cn^
 ||houhupsa.com^
-||houseatthebeachinoc.com^
 ||houseboatritz.com^
 ||housejomadkc.com^
 ||houseofkids.fr^
@@ -56444,6 +56446,7 @@ chat.bilibili.com
 ||htl.bid^
 ||htlbid.com^
 ||htmlcodeplay.com^
+||htownbars.com^
 ||htpgkd.xyz^
 ||htre-vcf-d.com^
 ||htsgov.com^
@@ -56489,6 +56492,7 @@ chat.bilibili.com
 ||huge-gay-cock.com^
 ||hugedomains.com^
 ||hugelyantony.com^
+||hugersi.com^
 ||hugersoft.com^
 ||hugfromoctopus.com^
 ||hughester.com^
@@ -57176,7 +57180,6 @@ chat.bilibili.com
 ||individuad.net^
 ||indoleads.com^
 ||indolegraphics.com^
-||indonesias.me^
 ||indpolice.com^
 ||indraftcoft.digital^
 ||indrasbikaner.com^
@@ -58933,7 +58936,6 @@ chat.bilibili.com
 ||kokotrokot.com^
 ||koksin.fun^
 ||kolkwi4tzicraamabilis.com^
-||kolleruaqua.com^
 ||kolsh.cn^
 ||kolur.top^
 ||komarchlupoid.com^
@@ -59263,7 +59265,6 @@ chat.bilibili.com
 ||lambda.center^
 ||lambdafoobar.de^
 ||lambingsyddir.com^
-||lameguard.ru^
 ||lameletters.com^
 ||lamiflor.xyz^
 ||lamlsace.fr^
@@ -65398,6 +65399,7 @@ chat.bilibili.com
 ||proidees.fr^
 ||proj2018.xyz^
 ||projeanaliz.com^
+||project360.hr^
 ||projectagora.net^
 ||projectagora.tech^
 ||projectagoralibs.com^
