@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard DNS filter, StevenBlack hosts, anti-AD, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-28T06:55:38.508Z
+! Last modified: 2024-11-28T06:59:30.465Z
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 /^139\.45\.19[5-7]\.\d{1,3}/
 /^23\.109\.73\.\d{3}/
@@ -10091,7 +10091,6 @@
 ||airfind.com^
 ||www.airfrance.life^
 ||airgokrecma.com^
-||airhobi.com^
 ||airlessquotationtroubled.com^
 ||landingairquality.airlite.com^
 ||click.airmalta-mail.com^
@@ -21460,6 +21459,7 @@
 ||advserver.cgv.vn^
 ||mto.cgv.vn^
 ||cgz0213.com^
+||ch2lq.icu^
 ||ch3l.net^
 ||up.ch3m1stry.com^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
